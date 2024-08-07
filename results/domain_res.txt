@@ -1,0 +1,4 @@
+domain\\domain-fn-args.js n=10000 args=1                 3.69 %       ±4.56% ±6.30%  ±8.70%
+domain\\domain-fn-args.js n=10000 args=0                 2.89 %       ±6.01% ±8.48% ±12.13%
+domain\\domain-fn-args.js n=10000 args=2                 1.64 %       ±4.80% ±6.58%  ±8.97%
+domain\\domain-fn-args.js n=10000 args=3                 1.52 %       ±4.25% ±5.92%  ±8.27%

@@ -1,0 +1,18 @@
+blob\\creation.js kind='Blob' n=50000                          ***     20.50 %       ±2.32% ±3.24%  ±4.55%
+blob\\clone.js bytes=1024 n=50000                              ***     17.36 %       ±0.90% ±1.24%  ±1.71%
+blob\\clone.js bytes=128 n=50000                               ***     17.11 %       ±1.24% ±1.70%  ±2.34%
+blob\\clone.js bytes=1048576 n=50000                           ***     16.95 %       ±0.86% ±1.20%  ±1.69%
+blob\\file.js operation='arrayBuffer' n=1000 bytes=128         ***     12.53 %       ±1.47% ±2.02%  ±2.79%
+blob\\file.js operation='text' n=1000 bytes=128                ***     12.10 %       ±1.67% ±2.31%  ±3.18%
+blob\\file.js operation='text' n=1000 bytes=1024               ***     10.96 %       ±0.86% ±1.17%  ±1.60%
+blob\\blob.js operation='arrayBuffer' n=1000 bytes=128         ***     10.58 %       ±0.87% ±1.19%  ±1.62%
+blob\\file.js operation='arrayBuffer' n=1000 bytes=1024        ***     10.44 %       ±1.40% ±1.98%  ±2.86%
+blob\\blob.js operation='text' n=1000 bytes=128                ***     10.27 %       ±1.42% ±1.95%  ±2.66%
+blob\\blob.js operation='text' n=1000 bytes=1024               ***     10.20 %       ±0.91% ±1.28%  ±1.79%
+blob\\blob.js operation='arrayBuffer' n=1000 bytes=1024        ***     10.10 %       ±1.00% ±1.40%  ±1.97%
+blob\\blob.js operation='arrayBuffer' n=1000 bytes=8192        ***      9.45 %       ±0.62% ±0.86%  ±1.18%
+blob\\blob.js operation='text' n=1000 bytes=8192               ***      9.05 %       ±0.53% ±0.72%  ±0.99%
+blob\\resolveObjectURL.js n=50000                              ***      8.03 %       ±3.25% ±4.46%  ±6.10%
+blob\\slice.js dataSize=30720 n=50000                           **      8.42 %       ±5.27% ±7.24%  ±9.90%
+blob\\slice.js dataSize=5 n=50000                                *      7.40 %       ±6.18% ±8.46% ±11.53%
+blob\\creation.js kind='createBlob' n=50000                             1.24 %       ±2.73% ±3.76%  ±5.14%

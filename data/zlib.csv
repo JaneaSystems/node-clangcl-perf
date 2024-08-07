@@ -1,0 +1,561 @@
+"binary","filename","configuration","rate","time"
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",46.92096201485368,2.131243600
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",43.7302306559762,2.286747600
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",43.59861959794574,2.293650600
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",43.4784272218085,2.299991200
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",43.37350630861143,2.305554900
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",43.341435725799364,2.307260900
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",43.15908442836203,2.317009300
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.9001022256637,2.044985500
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",47.65819769373403,2.098274900
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.66943602246892,2.054677600
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.11517001062286,2.078346600
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.31440696964309,2.069776000
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",47.87414614665067,2.088810100
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.36194232393448,2.067741600
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.22618776518978,2.073562200
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",47.961540983208714,2.085003900
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",47.70994870274025,2.095998900
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.08023552776496,2.079856700
+"old","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.09588858067975,2.079179800
+"new","zlib\createInflate.js","n=100 chunkLen=1024 inputLen=16777216",48.35189425556771,2.068171300
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",305012.88679446705,1.639275000
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",317500.63500127,1.574800000
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",307284.27199869615,1.627157800
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",331237.57113823696,1.509490600
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",324497.3778989379,1.540844500
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",309603.42773100565,1.614969200
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",318814.2558177066,1.568311300
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",316087.2744780514,1.581841600
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",307015.3812863932,1.628582900
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",316222.31212773913,1.581166100
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",304825.540722406,1.640282500
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",323519.7918085436,1.545500500
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",304747.3047538873,1.640703600
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",320837.833351311,1.558419700
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",209834.42762686787,2.382831100
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",218506.74327105205,2.288258900
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",222782.84286947866,2.244338000
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",216147.2640706141,2.313237700
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",321823.17721605184,1.553648200
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",330580.4357737751,1.512491200
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",323561.41198835155,1.545301700
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",322125.72051470535,1.552189000
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",321378.6268943904,1.555797300
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",342558.64312795503,1.459604100
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",318687.47670394543,1.568935200
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",324280.14509850234,1.541876700
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",323253.30400434555,1.546774600
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",329613.55645182607,1.516927900
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",316438.29209646635,1.580086900
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",334615.13236705406,1.494254000
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",320078.41665145225,1.562117200
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",330658.3294916347,1.512134900
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",218481.45079373874,2.288523800
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",224774.74423780953,2.224449200
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",223607.5055021981,2.236060900
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",233853.2186598218,2.138093300
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",318266.8561924578,1.571008700
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",315616.71506122965,1.584200000
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",304767.64484280423,1.640594100
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",319612.96659577865,1.564392100
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",319480.93804203934,1.565038600
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",320666.43206710496,1.559252700
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",324265.9915016369,1.541944000
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",320837.85393869533,1.558419600
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",310421.9770812971,1.610710700
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",326055.87489105656,1.533479500
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",323636.2002883469,1.544944600
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",320786.14676043205,1.558670800
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",320654.1755618807,1.559312300
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",319762.4446427256,1.563660800
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",215298.75953897298,2.322354300
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",206766.61102990696,2.418185400
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",197832.65620490653,2.527388600
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",207488.89675041265,2.409767500
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",312629.5263206237,1.599337100
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",322850.2355224753,1.548705700
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",308460.2883906282,1.620954200
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",327382.7802681422,1.527264200
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",313507.3775810122,1.594858800
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",332771.10545829136,1.502534300
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",316765.64537199057,1.578454000
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",319224.2798922733,1.566296900
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",308683.2474020909,1.619783400
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",324912.1729905189,1.538877400
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",316685.1325767472,1.578855300
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",338457.62693277915,1.477289800
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",330766.1688922489,1.511641900
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",356601.7649077189,1.402124300
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",230316.7186537564,2.170923600
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",233968.85200749486,2.137036600
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",224689.47240844736,2.225293400
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",224349.3733563043,2.228666800
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",322136.844504674,1.552135400
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",328605.55378875305,1.521581100
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",319333.660501313,1.565760400
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",333602.97349671164,1.498787600
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",327192.00484087114,1.528154700
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",324771.7228276003,1.539542900
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",323622.5636641634,1.545009700
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",325320.8541988707,1.536944200
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",328688.0508483044,1.521199200
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",337698.74246391485,1.480609600
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",334746.2078108475,1.493668900
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",331038.8369466884,1.510396800
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",322053.1843781533,1.552538600
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",330432.2701741127,1.513169400
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",208519.79347031945,2.397853900
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",209527.3072329916,2.386323800
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",206076.1724301982,2.426287300
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",201432.1178999912,2.482225800
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",332370.3898398892,1.504345800
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",326356.9743497125,1.532064700
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",337049.41548890364,1.483462000
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",326265.4875779962,1.532494300
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",324049.82434555225,1.542972600
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",329327.5250496395,1.518245400
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",328655.816116808,1.521348400
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",330946.61255292414,1.510817700
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",325596.5514897084,1.535642800
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",334041.2111986915,1.496821300
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",332609.64127584535,1.503263700
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",342472.3213869855,1.459972000
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",344968.52369202423,1.449407600
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",344983.3283356749,1.449345400
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",221082.53683190848,2.261598800
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",208494.96036406554,2.398139500
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",199991.29637878158,2.500108800
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",211887.61565620638,2.359741500
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",302061.4728928222,1.655292200
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",300056.84877056803,1.666350900
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",310214.47546361707,1.611788100
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",310452.50750317145,1.610552300
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",307221.64413349517,1.627489500
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",305221.73962595564,1.638153300
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",307173.9304188384,1.627742300
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",318105.5971888627,1.571805100
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",315651.28487433767,1.584026500
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",334085.82825289015,1.496621400
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",327591.9567002055,1.526289000
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",329118.7266844066,1.519208600
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",328397.5401973367,1.522544900
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",332070.95453065325,1.505702300
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",217213.29333191246,2.301884900
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",227052.90909496302,2.202129900
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",225000.7312523766,2.222215000
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",211668.8373305935,2.362180500
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",338636.0120706129,1.476511600
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",344355.961032404,1.451985900
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",335047.907495149,1.492323900
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",349386.0378910556,1.431081800
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",342051.42606370297,1.461768500
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",341677.20456111734,1.463369500
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",336416.65929914184,1.486252200
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",334563.0532920134,1.494486600
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",323583.12656371546,1.545198000
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",330619.52014676336,1.512312400
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",319533.55258873623,1.564780900
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",332086.83433111035,1.505630300
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",321017.31156476424,1.557548400
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",334696.1267089919,1.493892400
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",210278.6739153931,2.377797000
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",213677.9074778934,2.339970500
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",213462.3260554207,2.342333700
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",213573.93946870323,2.341109600
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",298626.5745758054,1.674331900
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",314222.03494588943,1.591231500
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",304927.50653459644,1.639734000
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",319298.8911579687,1.565930900
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",319492.0434340487,1.564984200
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",311312.55662386265,1.606102900
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",309098.525278572,1.617607200
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",332867.54068806383,1.502099000
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",326339.89122047136,1.532144900
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",320739.6410076664,1.558896800
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",320779.1906176449,1.558704600
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",323100.3572972991,1.547506800
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",320989.4692984807,1.557683500
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",336749.45449955866,1.484783400
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",216181.18785250233,2.312874700
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",217171.00796578915,2.302333100
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",212886.29708810718,2.348671600
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",218340.23950788905,2.290003900
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",338812.01394875505,1.475744600
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",350417.3225018872,1.426870100
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",337717.8111022704,1.480526000
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",348860.8993913075,1.433236000
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",337986.6204616424,1.479348500
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",340720.65689852345,1.467477800
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",312242.36102186184,1.601320200
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",341462.7417026944,1.464288600
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",338020.1860246771,1.479201600
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",342824.5451403935,1.458472000
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",335989.4192899993,1.488142100
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",348937.15139433887,1.432922800
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",336808.1152972318,1.484524800
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",345763.1736633574,1.446076500
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",232543.10535272374,2.150139000
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",233750.14568477828,2.139036100
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",224193.5511352758,2.230215800
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",228399.49465241414,2.189146700
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",321733.59325975843,1.554080800
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",333044.18437246117,1.501302300
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",325730.0342961153,1.535013500
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",329749.0056088987,1.516304800
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",321474.52391551854,1.555333200
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",324825.5248417142,1.539287900
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",308667.94533391914,1.619863700
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",314649.35004457005,1.589070500
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",307276.4916890927,1.627199000
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",319549.2361782653,1.564704100
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",309013.21080918325,1.618053800
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",308313.12700484466,1.621727900
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",311471.4628288399,1.605283500
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",318620.7646299344,1.569263700
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",202626.59998522446,2.467593100
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",210524.87092404376,2.375016300
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",207066.02884255844,2.414688700
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",211398.20208365904,2.365204600
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",340132.51426702837,1.470015300
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",331108.57069899736,1.510078700
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",322708.0003121232,1.549388300
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",349612.11235358595,1.430156400
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",341569.13444673485,1.463832500
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",342239.5237230513,1.460965100
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",338537.2145496524,1.476942500
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",323048.1688079161,1.547756800
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",316613.3616411007,1.579213200
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",338181.7549725738,1.478494900
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",336073.67810459825,1.487769000
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",337969.00634949136,1.479425600
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",337744.4104313307,1.480409400
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",329437.88409162906,1.517736800
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",206871.50172532903,2.416959300
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",209555.00408129324,2.386008400
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",207376.91101971045,2.411068800
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",217931.8891364789,2.294294800
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",308554.9513843904,1.620456900
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",309526.2267762472,1.615372000
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",309052.25171143864,1.617849400
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",325200.3754633455,1.537513600
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",319613.27305341774,1.564390600
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",312925.0695914062,1.597826600
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",314423.5252184646,1.590211800
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",324291.52355141245,1.541822600
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",315121.51558323164,1.586689500
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",324116.30822968256,1.542656100
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",317784.5181992651,1.573393200
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",325835.5106748275,1.534516600
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",322887.72180045553,1.548525900
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",327309.65732380893,1.527605400
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",225361.6502350229,2.218656100
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",225388.59134339218,2.218390900
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",227594.79459751863,2.196886800
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",221846.33565093242,2.253812300
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",344948.4133097379,1.449492100
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",332900.5847665092,1.501949900
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",334485.34546114755,1.494833800
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",332603.6010326677,1.503291000
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",320622.0169728318,1.559468700
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",333103.33658286737,1.501035700
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",312961.0503072996,1.597642900
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",330972.8350735885,1.510698000
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",336484.7825093595,1.485951300
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",347402.0510339172,1.439254600
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",328635.1434140761,1.521444100
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",327943.2794550947,1.524653900
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",326141.9468900017,1.533074800
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",334354.4741878012,1.495418900
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",224778.27084639765,2.224414300
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",236529.12245897946,2.113904600
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",229762.28518260267,2.176162200
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",228399.59898512007,2.189145700
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",299706.3956265884,1.668299400
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",312048.9332669626,1.602312800
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",310704.0142834364,1.609248600
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",320395.75283390045,1.560570000
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",313618.36308275315,1.594294400
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",326907.18797640596,1.529486100
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",305662.6886297943,1.635790100
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",307453.288775563,1.626263300
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",314185.05298542406,1.591418800
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",312720.5070475319,1.598871800
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",324903.7277764226,1.538917400
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",310358.5646984016,1.611039800
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",308246.7534989551,1.622077100
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",315399.74583826883,1.585289800
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",214294.07481597603,2.333242300
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",207188.805108182,2.413257800
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",207139.81958535992,2.413828500
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",224583.02904204422,2.226348100
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",335929.2828548077,1.488408500
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",358996.92239118373,1.392769600
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",339225.7294845777,1.473944800
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",348178.47990985797,1.436045100
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",337037.26048025786,1.483515500
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",344993.3495632005,1.449303300
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",332663.43787969375,1.503020600
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",346908.342444881,1.441302900
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",330676.26139270654,1.512052900
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",342481.02432512573,1.459934900
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",345369.60211487766,1.447724400
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",340444.23751487146,1.468669300
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",345968.446985698,1.445218500
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",342001.9425710338,1.461980000
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",219191.28411284913,2.281112600
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",221497.68851657194,2.257359900
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",215740.3001111537,2.317601300
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",208218.65690804124,2.401321800
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",302536.2155514869,1.652694700
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",313591.258380256,1.594432200
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",303018.9903213311,1.650061600
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",312980.7384142042,1.597542400
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",321530.85728422046,1.555060700
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",327002.47815558047,1.529040400
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",309874.20346835995,1.613558000
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",316730.4297810221,1.578629500
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",309466.8573065032,1.615681900
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",315191.18110204453,1.586338800
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",317810.49417879235,1.573264600
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",324848.6968467132,1.539178100
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",310030.70234045276,1.612743500
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",317945.8561099146,1.572594800
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",214445.98202213552,2.331589500
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",226488.92118117597,2.207613500
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",220097.1790672792,2.271723800
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",222037.3194109421,2.251873700
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",312008.7032955732,1.602519400
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",329145.8303641637,1.519083500
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",319343.77664125455,1.565710800
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",327425.9149753481,1.527063000
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",326302.70645253814,1.532319500
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",328517.01113646384,1.521991200
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",318809.84459295316,1.568333000
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",335541.23942759883,1.490129800
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",315199.78465550713,1.586295500
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",325651.7088540857,1.535382700
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",339440.5937549176,1.473011800
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",331956.88517418806,1.506219700
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",329967.946253765,1.515298700
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",329822.2436210894,1.515968100
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",214454.30600656488,2.331499000
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",220955.1475633486,2.262902700
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",228756.0333831915,2.185734700
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",230410.701084004,2.170038100
+"old","zlib\creation.js","n=500000 options='true' type='Deflate'",319918.5922353454,1.562897600
+"old","zlib\creation.js","n=500000 options='false' type='Deflate'",323676.55131697515,1.544752000
+"old","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",312179.2748175344,1.601643800
+"old","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",322993.47249571694,1.548018900
+"old","zlib\creation.js","n=500000 options='true' type='Inflate'",326968.28531880357,1.529200300
+"old","zlib\creation.js","n=500000 options='false' type='Inflate'",326240.0269239369,1.532613900
+"old","zlib\creation.js","n=500000 options='true' type='InflateRaw'",318865.4105452745,1.568059700
+"old","zlib\creation.js","n=500000 options='false' type='InflateRaw'",333098.23260076373,1.501058700
+"old","zlib\creation.js","n=500000 options='true' type='Gzip'",311447.3080986267,1.605408000
+"old","zlib\creation.js","n=500000 options='false' type='Gzip'",325904.5987289851,1.534191300
+"old","zlib\creation.js","n=500000 options='true' type='Gunzip'",318675.1882111595,1.568995700
+"old","zlib\creation.js","n=500000 options='false' type='Gunzip'",324296.1929443007,1.541800400
+"old","zlib\creation.js","n=500000 options='true' type='Unzip'",312426.69688624307,1.600375400
+"old","zlib\creation.js","n=500000 options='false' type='Unzip'",313520.5878937411,1.594791600
+"old","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",199344.16566871654,2.508224900
+"old","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",197221.77628187253,2.535217000
+"old","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",199705.29888454205,2.503689200
+"old","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",202415.15283072734,2.470170800
+"new","zlib\creation.js","n=500000 options='true' type='Deflate'",316663.491587391,1.578963200
+"new","zlib\creation.js","n=500000 options='false' type='Deflate'",329746.2655246191,1.516317400
+"new","zlib\creation.js","n=500000 options='true' type='DeflateRaw'",318203.4386590958,1.571321800
+"new","zlib\creation.js","n=500000 options='false' type='DeflateRaw'",334979.5344253443,1.492628500
+"new","zlib\creation.js","n=500000 options='true' type='Inflate'",323997.07676877454,1.543223800
+"new","zlib\creation.js","n=500000 options='false' type='Inflate'",336270.77060482337,1.486897000
+"new","zlib\creation.js","n=500000 options='true' type='InflateRaw'",319410.3633586741,1.565384400
+"new","zlib\creation.js","n=500000 options='false' type='InflateRaw'",333034.69002563105,1.501345100
+"new","zlib\creation.js","n=500000 options='true' type='Gzip'",328062.61376801366,1.524099300
+"new","zlib\creation.js","n=500000 options='false' type='Gzip'",334696.3507521363,1.493891400
+"new","zlib\creation.js","n=500000 options='true' type='Gunzip'",337069.4788508115,1.483373700
+"new","zlib\creation.js","n=500000 options='false' type='Gunzip'",338036.114291092,1.479131900
+"new","zlib\creation.js","n=500000 options='true' type='Unzip'",346540.1157610326,1.442834400
+"new","zlib\creation.js","n=500000 options='false' type='Unzip'",338840.64588719624,1.475619900
+"new","zlib\creation.js","n=500000 options='true' type='BrotliCompress'",227427.56409340867,2.198502200
+"new","zlib\creation.js","n=500000 options='false' type='BrotliCompress'",229399.1426252924,2.179607100
+"new","zlib\creation.js","n=500000 options='true' type='BrotliDecompress'",225665.59842590123,2.215667800
+"new","zlib\creation.js","n=500000 options='false' type='BrotliDecompress'",236250.15811041833,2.116400700
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",69407.58973728967,5.763058500
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",22568.89830453295,17.723505800
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",76946.70696083573,5.198403100
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",56358.82536936165,7.097380000
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19459.2115806594,20.555817400
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",70883.52898752679,5.643059900
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",66581.70619017779,6.007656200
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",20660.144827098735,19.360948500
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",80139.81352146583,4.991276900
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",60444.825864727834,6.617605300
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",20637.16887430373,19.382503600
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",68720.79774125734,5.820654200
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",55361.80155274352,7.225198400
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19755.549278229773,20.247475500
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",78871.0539308239,5.071569100
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",63410.771889021955,6.308076500
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",22223.84085863143,17.998689000
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",69119.30172916621,5.787095500
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",62540.02757202196,6.395903800
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19733.104531932906,20.270505300
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",77389.7190699025,5.168645200
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",60592.401609831046,6.601487800
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19292.950316885985,20.732961700
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",69090.67977266196,5.789492900
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",61277.00012073101,6.527734700
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",22829.142196751214,17.521464300
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",77208.53022232371,5.180774700
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",56020.67106741716,7.140221500
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",20659.243910512254,19.361792800
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",70483.4798441124,5.675088700
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",70670.55901260226,5.660065600
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19817.98439772697,20.183687300
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",77864.41426718228,5.137134900
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",62888.81995575457,6.360431000
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",22146.545875492906,18.061507300
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",70313.9459678459,5.688771900
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",66136.85206077388,6.048065300
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",21186.23431416894,18.880183900
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",78919.21710558247,5.068474000
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",55884.10441475484,7.157670400
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19540.31430146127,20.470499800
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",68984.56173797497,5.798398800
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",68300.97349889786,5.856431900
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",20765.642206686927,19.262587500
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",76151.18652972321,5.252708700
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",62645.12918772509,6.385173200
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",20337.12785668072,19.668460700
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",70278.7656434383,5.691619600
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",70760.2935264344,5.652887800
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",22705.325192308712,17.617012600
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",77907.79094854431,5.134274700
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",55932.784901190826,7.151440800
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19440.907211879134,20.575171500
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",69887.99173868027,5.723443900
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",66317.04431432561,6.031631900
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",21030.98106945136,19.019559700
+"old","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",75640.70942891888,5.288157700
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='createDeflate'",56121.40586591036,7.127405200
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflate'",19585.26315295719,20.423519300
+"new","zlib\deflate.js","n=400000 inputLen=1024 method='deflateSync'",70215.33938698392,5.696760900
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27547.749098902797,14.520242600
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",235672.48288678995,1.697270700
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",28155.903545786263,14.206612100
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",243235.9280870546,1.644493900
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27256.09851286161,14.675614700
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",236042.98484379798,1.694606600
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",28138.229672306257,14.215535400
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",247485.8990268669,1.616253700
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27778.955682662487,14.399389400
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",236283.56201250272,1.692881200
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",28233.91729897407,14.167357500
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",247226.45906566444,1.617949800
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27516.252801472692,14.536863100
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",240127.74796191574,1.665780000
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",35938.09113948429,11.130251700
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",259001.21490994885,1.544394300
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",34456.36682592686,11.608885000
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",239175.1852396861,1.672414300
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",28236.014966499733,14.166305000
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",250745.62345454504,1.595242200
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27260.961813349022,14.672996600
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",244565.2855107113,1.635555100
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",36186.0988097976,11.053968600
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",246870.51505706474,1.620282600
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27559.52091741456,14.514040400
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",243544.08765979766,1.642413100
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",36073.40841213667,11.088500300
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",249143.67760857946,1.605499300
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27258.488615345716,14.674327900
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",241441.677227728,1.656714800
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",36296.09065877822,11.020470600
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",261527.03280712786,1.529478600
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",34817.79646905414,11.488377800
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",245379.23299113972,1.630129800
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",36078.91371225387,11.086808300
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",249528.12671687047,1.603025700
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",27692.075419699708,14.444565600
+"old","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",236068.9375593529,1.694420300
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflate'",28302.248313624685,14.133152800
+"new","zlib\inflate.js","n=400000 inputLen=1024 method='inflateSync'",260433.40154735206,1.535901300
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.41544402061833907,5.001030600
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.1998517419837268,5.003709200
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4343353123312925,5.001036700
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.19996280291940094,5.000930100
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.371358089864307,5.001110200
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.2374370791740189,5.001325000
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.3965513068641664,5.001046700
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.23746636051536937,5.000708300
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.38399674572269926,5.000534800
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.1998497010338405,5.003760300
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.45956222073845543,5.000619300
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.19996118753349973,5.000970500
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.37137026067904444,5.000946300
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.23741160216405024,5.001861700
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.40074302792723493,5.000781500
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.26244496529077854,5.001048500
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.40918856244555973,5.000525800
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.19991497216403917,5.002126600
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4217913660227569,5.000435400
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.2124120104487917,5.002071200
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.3902776712278172,5.000745700
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.23749162604526566,5.000176300
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.40288724638868956,5.000564900
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.23732188992161382,5.003752500
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.3839647264892872,5.000951800
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.1872831336225904,5.005789800
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4218073426936496,5.000246000
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.2087366318067789,5.000671100
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.39655524779833434,5.000997000
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.24995847689781775,5.000830600
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4217574849767753,5.000837100
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.26245584967696733,5.000841100
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.4154643824853805,5.000785500
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.18732860930877124,5.004574600
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.42174148678318435,5.001026800
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.19996216315948695,5.000946100
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.37137021612305116,5.000946900
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.23745994525643416,5.000843400
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.3911525758543977,5.001058100
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.23728794999636527,5.004468200
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.3839568031291615,5.001055000
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.18739992094621788,5.002670200
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4242879455487257,5.000623100
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.19996686948906306,5.000828400
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.36507056331195276,5.000979800
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.24996415014158668,5.000717100
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.42805601278128547,5.000823800
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.23729941080804398,5.004226500
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.38395001632488857,5.001143400
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.18742816628099113,5.001916300
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4217500549847357,5.000925200
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.19997636679297243,5.000590900
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.38399237635680367,5.000591700
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.2433968943894335,5.007253700
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.40290539925506913,5.000339600
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.23745555781779884,5.000935800
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.383959313693344,5.001022300
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.19991338952312301,5.002166200
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.44697783405886343,5.000492600
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.19998167767869107,5.000458100
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.39025844996323145,5.000992000
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.24997777697562684,5.000444500
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.39659993570032015,5.000433500
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.2374885530517429,5.000241000
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.38394314531385026,5.001232900
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.1874917841100203,5.000219100
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4154772436403561,5.000630700
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.1999698565438246,5.000753700
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.385196781276834,5.000424600
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.2499498800500524,5.001002600
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.41552163237236417,5.000096500
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.26247135912529224,5.000545600
+"old","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.40915361621860763,5.000952900
+"old","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.19984114227917943,5.003974600
+"old","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.4217562030525378,5.000852300
+"old","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.1999588964492459,5.001027800
+"new","zlib\pipe.js","algorithm='gzip' type='string' duration=5 inputLen=1024",0.35999025320033246,5.000949200
+"new","zlib\pipe.js","algorithm='brotli' type='string' duration=5 inputLen=1024",0.23743652371974874,5.001336700
+"new","zlib\pipe.js","algorithm='gzip' type='buffer' duration=5 inputLen=1024",0.39655949806864976,5.000943400
+"new","zlib\pipe.js","algorithm='brotli' type='buffer' duration=5 inputLen=1024",0.237339093588111,5.003389800

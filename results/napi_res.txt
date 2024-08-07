@@ -1,0 +1,4 @@
+napi\\define_properties implem='runSlowPath' n=5000000        ***      6.22 %       ±1.92% ±2.70% ±3.83%
+napi\\property_keys implem='RunNormalString' n=5000000                 1.63 %       ±2.84% ±4.03% ±5.82%
+napi\\property_keys implem='RunPropertyKey' n=5000000                 -0.06 %       ±1.62% ±2.22% ±3.04%
+napi\\define_properties implem='runFastPath' n=5000000                -1.24 %       ±1.34% ±1.84% ±2.51%

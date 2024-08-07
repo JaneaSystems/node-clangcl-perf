@@ -1,0 +1,22 @@
+timers\\immediate.js type='breadth1' n=5000000                       ***      7.18 %       ±1.85%  ±2.54%  ±3.46%
+timers\\timers-insert-pooled.js n=5000000                            ***      7.05 %       ±1.44%  ±1.98%  ±2.71%
+timers\\immediate.js type='breadth' n=5000000                        ***      6.20 %       ±2.58%  ±3.65%  ±5.24%
+timers\\immediate.js type='breadth4' n=5000000                       ***      5.97 %       ±2.56%  ±3.63%  ±5.22%
+timers\\set-immediate-breadth-args.js n=5000000                      ***      5.56 %       ±0.96%  ±1.32%  ±1.82%
+timers\\timers-insert-unpooled.js direction='start' n=1000000        ***      4.65 %       ±2.23%  ±3.05%  ±4.16%
+timers\\immediate.js type='depth' n=5000000                          ***      3.18 %       ±0.39%  ±0.54%  ±0.74%
+timers\\immediate.js type='depth1' n=5000000                         ***      3.15 %       ±0.33%  ±0.46%  ±0.64%
+timers\\set-immediate-depth-args.js n=5000000                        ***      2.75 %       ±0.46%  ±0.63%  ±0.87%
+timers\\timers-cancel-unpooled.js direction='end' n=1000000          ***     -5.56 %       ±2.87%  ±3.93%  ±5.36%
+timers\\immediate.js type='clear' n=5000000                           **      2.30 %       ±1.39%  ±1.92%  ±2.64%
+timers\\timers-timeout-pooled.js n=10000000                           **     -7.77 %       ±4.95%  ±6.78%  ±9.24%
+timers\\timers-breadth-args.js n=1000000                               *      6.75 %       ±5.18%  ±7.13%  ±9.77%
+timers\\timers-insert-unpooled.js direction='end' n=1000000            *      1.85 %       ±1.85%  ±2.55%  ±3.50%
+timers\\set-immediate-breadth.js n=10000000                                   2.25 %       ±2.68%  ±3.69%  ±5.07%
+timers\\timers-cancel-pooled.js n=5000000                                     0.12 %       ±2.81%  ±3.85%  ±5.25%
+timers\\timers-depth.js n=1000                                               -0.07 %       ±0.26%  ±0.36%  ±0.50%
+timers\\timers-breadth.js n=5000000                                          -0.99 %       ±5.58%  ±7.73% ±10.73%
+timers\\timers-timeout-nexttick.js n=5000000                                 -1.46 %       ±4.80%  ±6.80%  ±9.79%
+timers\\timers-cancel-unpooled.js direction='start' n=1000000                -2.41 %       ±2.77%  ±3.79%  ±5.17%
+timers\\timers-timeout-nexttick.js n=50000                                   -2.50 %       ±4.34%  ±5.99%  ±8.24%
+timers\\timers-timeout-unpooled.js n=1000000                                 -5.03 %      ±14.94% ±20.92% ±29.54%

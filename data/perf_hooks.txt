@@ -1,0 +1,23 @@
+                                                                 confidence improvement accuracy (*)   (**)  (***)
+perf_hooks\\bench-eventlooputil.js method='ELU_passed' n=1000000                -0.15 %       ±1.44% ±1.98% ±2.69%
+perf_hooks\\bench-eventlooputil.js method='ELU_simple' n=1000000        ***     -5.88 %       ±2.22% ±3.14% ±4.50%
+perf_hooks\\bench-eventlooputil.js method='idleTime' n=1000000          ***     -9.06 %       ±1.06% ±1.45% ±1.98%
+perf_hooks\\histogram-clone.js n=100000                                 ***     14.49 %       ±0.70% ±0.97% ±1.33%
+perf_hooks\\histogram-create.js n=100000                                        -0.67 %       ±2.22% ±3.08% ±4.29%
+perf_hooks\\histogram-record.js n=100000                                ***    -11.16 %       ±0.14% ±0.19% ±0.26%
+perf_hooks\\now.js n=1000000                                             **     -3.85 %       ±2.21% ±3.04% ±4.17%
+perf_hooks\\performance-observer.js pending=1 n=1000000                 ***      8.46 %       ±0.82% ±1.16% ±1.66%
+perf_hooks\\performance-observer.js pending=10 n=1000000                ***      4.56 %       ±0.66% ±0.91% ±1.25%
+perf_hooks\\resourcetiming.js observe='resource' n=1000000              ***      7.56 %       ±1.35% ±1.85% ±2.52%
+perf_hooks\\time-origin.js method='timeOrigin' n=1000000                         1.35 %       ±2.95% ±4.09% ±5.66%
+perf_hooks\\time-origin.js method='toJSON' n=1000000                            -2.12 %       ±3.40% ±4.67% ±6.37%
+perf_hooks\\timerfied.js observe='function' n=1000000                   ***      7.11 %       ±1.74% ±2.42% ±3.39%
+perf_hooks\\usertiming.js observe='all' n=1000000                               -1.40 %       ±1.94% ±2.66% ±3.63%
+perf_hooks\\usertiming.js observe='measure' n=1000000                    **      3.61 %       ±2.58% ±3.53% ±4.82%
+
+Be aware that when doing many comparisons the risk of a false-positive
+result increases. In this case, there are 15 comparisons, you can thus
+expect the following amount of false-positive results:
+  0.75 false positives, when considering a   5% risk acceptance (*, **, ***),
+  0.15 false positives, when considering a   1% risk acceptance (**, ***),
+  0.01 false positives, when considering a 0.1% risk acceptance (***)

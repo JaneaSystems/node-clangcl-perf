@@ -1,0 +1,5 @@
+v8\\get-stats.js n=1000000 method='getHeapSpaceStatistics'        ***     10.44 %       ±0.65% ±0.89% ±1.22%
+v8\\serialize.js n=1000000 len=256                                ***      9.04 %       ±1.91% ±2.63% ±3.58%
+v8\\serialize.js n=1000000 len=16384                              ***      4.12 %       ±0.99% ±1.35% ±1.84%
+v8\\get-stats.js n=1000000 method='getHeapStatistics'             ***      3.80 %       ±0.74% ±1.02% ±1.39%
+v8\\serialize.js n=1000000 len=524288                                     -0.01 %       ±0.83% ±1.14% ±1.56%

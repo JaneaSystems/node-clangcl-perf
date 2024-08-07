@@ -1,0 +1,221 @@
+"binary","filename","configuration","rate","time"
+"old","worker\atomics-wait.js","n=10000000",17088461.153313912,0.585190200
+"new","worker\atomics-wait.js","n=10000000",16245243.392734606,0.615564800
+"old","worker\atomics-wait.js","n=10000000",16882509.55127978,0.592329000
+"new","worker\atomics-wait.js","n=10000000",16030617.19639574,0.623806300
+"old","worker\atomics-wait.js","n=10000000",17043507.1310886,0.586733700
+"new","worker\atomics-wait.js","n=10000000",16247642.670144094,0.615473900
+"old","worker\atomics-wait.js","n=10000000",17036552.94653998,0.586973200
+"new","worker\atomics-wait.js","n=10000000",16166428.858498156,0.618565800
+"old","worker\atomics-wait.js","n=10000000",16830055.651945025,0.594175100
+"new","worker\atomics-wait.js","n=10000000",16276616.540655812,0.614378300
+"old","worker\atomics-wait.js","n=10000000",16831608.009354334,0.594120300
+"new","worker\atomics-wait.js","n=10000000",15927736.496624274,0.627835600
+"old","worker\atomics-wait.js","n=10000000",17131698.04422822,0.583713300
+"new","worker\atomics-wait.js","n=10000000",16126961.764263814,0.620079600
+"old","worker\atomics-wait.js","n=10000000",17262636.163358398,0.579285800
+"new","worker\atomics-wait.js","n=10000000",15971601.215311078,0.626111300
+"old","worker\atomics-wait.js","n=10000000",17141606.295357764,0.583375900
+"new","worker\atomics-wait.js","n=10000000",16123339.678942386,0.620218900
+"old","worker\atomics-wait.js","n=10000000",17009872.019423913,0.587893900
+"new","worker\atomics-wait.js","n=10000000",16128725.292002507,0.620011800
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",9007272.471793726,0.111021400
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8222392.6998308655,0.121619100
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8593545.903284797,0.116366400
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",7945096.207169972,0.125863800
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8382763.696597603,0.119292400
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8202974.398516902,0.121907000
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8695092.663602516,0.115007400
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8096831.628815328,0.123505100
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8851437.473445687,0.112976000
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8226498.5389738595,0.121558400
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8827122.569893155,0.113287200
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8093024.46035713,0.123563200
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",9081439.626135293,0.110114700
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8162299.156426382,0.122514500
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8423421.829803078,0.118716600
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8096575.958027351,0.123509000
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8423230.258264663,0.118719300
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8092055.220184823,0.123578000
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8617539.795798777,0.116042400
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",7953734.715904526,0.125727100
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8918323.319542633,0.112128700
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",7887268.843868358,0.126786600
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8823773.363145921,0.113330200
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8193799.751727868,0.122043500
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8558969.157754641,0.116836500
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8032767.264224223,0.124490100
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8788064.402451167,0.113790700
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",7999027.318278098,0.125015200
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",9020711.553727359,0.110856000
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",7670629.313770161,0.130367400
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8661165.671643084,0.115457900
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8026886.860227016,0.124581300
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8970846.542904869,0.111472200
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8050965.834116289,0.124208700
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8561284.672132762,0.116804900
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8167946.039281285,0.122429800
+"old","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",9065903.680212941,0.110303400
+"old","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8042580.638934776,0.124338200
+"new","worker\bench-eventlooputil.js","method='ELU_simple' n=1000000",8578102.335045237,0.116575900
+"new","worker\bench-eventlooputil.js","method='ELU_passed' n=1000000",8140167.16647293,0.122847600
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",67717.52069633655,1.476722700
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",54995.79007226996,1.818321000
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",50927.75602426972,1.963565800
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",22975.049234381757,4.352547800
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",55682.49617948473,1.795896500
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",32107.776301141144,3.114510300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",42532.32712055125,2.351152800
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",18690.1554073339,5.350410300
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",53397.903502192275,1.872732700
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",30352.269962801776,3.294646500
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",42079.80089184771,2.376437100
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",17450.636207442065,5.730450100
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",53881.05799552335,1.855939800
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",56762.174322767656,1.761736600
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",55663.05947776027,1.796523600
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",24461.71506759457,4.088020800
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",67829.9825208918,1.474274300
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",54206.68249140417,1.844791000
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",50945.52863322113,1.962880800
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",22862.82956140085,4.373911800
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",70199.36549601503,1.424514300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",56698.358213990374,1.763719500
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",54308.3256346756,1.841338300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",24869.44659661872,4.020998200
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",68131.13635854202,1.467757700
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",31786.10847886815,3.146028400
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",41676.345998024706,2.399442600
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",23054.879951510975,4.337476500
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",72433.86552667353,1.380569700
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",58632.39814071975,1.705541700
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",55456.0304662122,1.803230400
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",24402.997146825976,4.097857300
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",68359.79757570181,1.462848100
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",53796.13792146248,1.858869500
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",51858.20659490148,1.928335100
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",23073.717782542808,4.333935300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",54062.23352387207,1.849720100
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",32522.334713364406,3.074810000
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",43782.1297895844,2.284036900
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",18674.369271310425,5.354933200
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",52393.32444078902,1.908640100
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",31025.584193135004,3.223146400
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",41615.67705835092,2.402940600
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",17321.453703002026,5.773187500
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",52736.67203227147,1.896213700
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",31529.48225720951,3.171634700
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",53905.731704812424,1.855090300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",24235.664107849094,4.126150600
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",68565.72233611369,1.458454700
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",52392.69033950045,1.908663200
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",51003.90995973752,1.960634000
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",23126.582609864447,4.324028400
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",71895.41402879398,1.390909300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",58236.58344134764,1.717133700
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",54928.28069318172,1.820555800
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",24552.250429811695,4.072946400
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",68634.36824809402,1.456996000
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",53712.056326329526,1.861779400
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",41890.080428954425,2.387200000
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",17299.554131671543,5.780495800
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",47729.27269227416,2.095150300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",32363.755144502065,3.089876300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",44427.050760437836,2.250880900
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",18551.921596907854,5.390277200
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",52656.21651393731,1.899111000
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",31649.2453395695,3.159633000
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",41747.46366415568,2.395355100
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",22940.563660660613,4.359090800
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",70951.94162471574,1.409404700
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",57815.261853125994,1.729647100
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",54889.914708208235,1.821828300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",24337.787659568574,4.108836900
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",68406.15773078168,1.461856700
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",54024.46908668555,1.851013100
+"old","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",52056.841281449946,1.920977100
+"old","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",23050.432987400887,4.338313300
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='string' workers=1",71637.8717047385,1.395909700
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='string' workers=1",56687.2085994042,1.764066400
+"new","worker\echo.js","n=100000 sendsPerBroadcast=1 payload='object' workers=1",54597.8158362166,1.831575100
+"new","worker\echo.js","n=100000 sendsPerBroadcast=10 payload='object' workers=1",18948.25009310223,5.277532200
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",706731.811320416,1.414963900
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",808429.2002363524,1.236966700
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",378713.4701981092,2.640518700
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",405298.94323164143,2.467314600
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",756153.7302878285,1.322482400
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",869089.7119593349,1.150629200
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",397004.39539446315,2.518863800
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",435036.36730016087,2.298658400
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",700690.6146836445,1.427163400
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",807822.8922628419,1.237895100
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",376790.2908075,2.653996200
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",399995.61604804813,2.500027400
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",750812.9239230546,1.331889700
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",867931.4684784216,1.152164700
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",361617.473009143,2.765353100
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",436167.4403186639,2.292697500
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",700678.5370953232,1.427188000
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",805722.1744249924,1.241122600
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",376524.65185965906,2.655868600
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",402339.70192824124,2.485461900
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",750947.0004886412,1.331651900
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",870656.8696873062,1.148558100
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",395859.6093396108,2.526148100
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",436147.57995446527,2.292801900
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",709729.8569440111,1.408986800
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",807331.0177465082,1.238649300
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",376799.1074081305,2.653934100
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",401762.06413134985,2.489035400
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",744148.4998933634,1.343817800
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",874089.6574739822,1.144047400
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",408264.7982618698,2.449390700
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",435760.4741457428,2.294838700
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",703284.5851623127,1.421899500
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",806823.5976215809,1.239428300
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",379019.08042693924,2.638389600
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",403883.1914882102,2.475963400
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",750857.1221763924,1.331811300
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",867408.9894971518,1.152858700
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",398778.90708419564,2.507655200
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",438890.0470709576,2.278475000
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",706015.99761649,1.416398500
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",799684.3485939229,1.250493400
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",376593.6501791456,2.655382000
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",403188.30018514005,2.480230700
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",755050.5140119632,1.324414700
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",876764.6752213765,1.140556900
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",399278.24866658036,2.504519100
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",434893.41197365936,2.299414000
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",705485.090137008,1.417464400
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",807729.6496553418,1.238038000
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",379178.84952511074,2.637277900
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",398969.3982093216,2.506457900
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",747135.8919151379,1.338444600
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",874710.0336238537,1.143236000
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",398127.93873161374,2.511755400
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",436226.2330316175,2.292388500
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",702515.8638619798,1.423455400
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",809937.6761057613,1.234662900
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",380216.7159237422,2.630079000
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",404219.28944958956,2.473904700
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",758554.8104777355,1.318296300
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",873296.9290775479,1.145085900
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",412027.1890149596,2.427024300
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",439375.5155797065,2.275957500
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",696525.2653047323,1.435698100
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",808478.4814963127,1.236891300
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",347573.41619483574,2.877090000
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",403797.9131966125,2.476486300
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",754289.6831425157,1.325750600
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",872563.0404982683,1.146049000
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",398304.1642580882,2.510644100
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",436571.43166484905,2.290575900
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",704738.1235417207,1.418966800
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",805913.7954308718,1.240827500
+"old","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",374977.24356853095,2.666828500
+"old","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",404390.1402404787,2.472859500
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='string'",756840.0173407184,1.321283200
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='string'",871324.1556760016,1.147678500
+"new","worker\messageport.js","n=1000000 style='eventtarget' payload='object'",399015.3418605838,2.506169300
+"new","worker\messageport.js","n=1000000 style='eventemitter' payload='object'",437649.1727205218,2.284935200

@@ -1,0 +1,43 @@
+streams\\readable-uint8array.js kind='read' n=1000000                                            ***      8.40 %       ±3.73% ±5.24%  ±7.45%
+streams\\writable-manywrites.js len=32768 callback='no' writev='no' sync='yes' n=100000          ***      6.70 %       ±2.76% ±3.78%  ±5.16%
+streams\\destroy.js kind='duplex' n=1000000                                                      ***      5.18 %       ±1.07% ±1.47%  ±2.01%
+streams\\writable-manywrites.js len=1024 callback='yes' writev='no' sync='yes' n=100000          ***      4.56 %       ±2.25% ±3.11%  ±4.30%
+streams\\creation.js kind='readable' n=50000000                                                  ***      4.55 %       ±0.32% ±0.44%  ±0.62%
+streams\\writable-manywrites.js len=1024 callback='yes' writev='yes' sync='no' n=100000          ***      4.47 %       ±1.95% ±2.71%  ±3.75%
+streams\\destroy.js kind='transform' n=1000000                                                   ***      4.31 %       ±1.47% ±2.02%  ±2.76%
+streams\\destroy.js kind='readable' n=1000000                                                    ***      3.83 %       ±1.75% ±2.41%  ±3.28%
+streams\\writable-manywrites.js len=1024 callback='no' writev='no' sync='no' n=100000            ***      3.27 %       ±1.31% ±1.79%  ±2.45%
+streams\\creation.js kind='duplex' n=50000000                                                    ***      2.77 %       ±0.43% ±0.59%  ±0.81%
+streams\\destroy.js kind='writable' n=1000000                                                     **      4.11 %       ±2.78% ±3.86%  ±5.37%
+streams\\writable-manywrites.js len=32768 callback='no' writev='no' sync='no' n=100000            **      3.59 %       ±2.16% ±2.99%  ±4.13%
+streams\\writable-manywrites.js len=1024 callback='no' writev='yes' sync='yes' n=100000           **      3.38 %       ±2.32% ±3.21%  ±4.45%
+streams\\creation.js kind='writable' n=50000000                                                   **      3.36 %       ±1.73% ±2.48%  ±3.62%
+streams\\writable-manywrites.js len=1024 callback='no' writev='no' sync='yes' n=100000             *      5.81 %       ±4.28% ±6.01%  ±8.51%
+streams\\creation.js kind='transform' n=50000000                                                   *      3.99 %       ±3.94% ±5.41%  ±7.38%
+streams\\writable-manywrites.js len=32768 callback='no' writev='yes' sync='yes' n=100000           *      3.43 %       ±2.96% ±4.08%  ±5.61%
+streams\\writable-manywrites.js len=32768 callback='yes' writev='yes' sync='yes' n=100000          *      3.20 %       ±2.43% ±3.40%  ±4.78%
+streams\\writable-manywrites.js len=1024 callback='no' writev='yes' sync='no' n=100000             *      2.51 %       ±1.83% ±2.56%  ±3.59%
+streams\\readable-from.js type='sync-generator-with-sync-values' n=10000000                               5.03 %       ±6.61% ±9.26% ±13.09%
+streams\\writable-manywrites.js len=32768 callback='yes' writev='yes' sync='no' n=100000                  2.87 %       ±4.20% ±5.75%  ±7.84%
+streams\\writable-manywrites.js len=32768 callback='yes' writev='no' sync='yes' n=100000                  2.35 %       ±5.15% ±7.15%  ±9.97%
+streams\\readable-async-iterator.js sync='yes' n=100000                                                   2.21 %       ±2.37% ±3.25%  ±4.43%
+streams\\readable-from.js type='array' n=10000000                                                         1.59 %       ±1.88% ±2.58%  ±3.52%
+streams\\writable-manywrites.js len=1024 callback='yes' writev='no' sync='no' n=100000                    1.58 %       ±1.70% ±2.35%  ±3.24%
+streams\\writable-uint8array.js kind='writev' n=50000000                                                  1.12 %       ±2.16% ±3.10%  ±4.54%
+streams\\readable-async-iterator.js sync='no' n=100000                                                    1.07 %       ±1.63% ±2.24%  ±3.06%
+streams\\writable-manywrites.js len=1024 callback='yes' writev='yes' sync='yes' n=100000                  0.99 %       ±1.59% ±2.18%  ±2.96%
+streams\\writable-manywrites.js len=32768 callback='yes' writev='no' sync='no' n=100000                   0.69 %       ±2.19% ±3.05%  ±4.26%
+streams\\readable-boundaryread.js type='string' n=2000                                                    0.53 %       ±2.21% ±3.06%  ±4.25%
+streams\\readable-readall.js n=5000                                                                       0.52 %       ±3.12% ±4.30%  ±5.93%
+streams\\writable-uint8array.js kind='write' n=50000000                                                   0.47 %       ±0.66% ±0.91%  ±1.25%
+streams\\pipe.js n=5000000                                                                                0.22 %       ±6.32% ±8.66% ±11.80%
+streams\\writable-uint8array.js kind='object-mode' n=50000000                                             0.21 %       ±1.28% ±1.75%  ±2.39%
+streams\\readable-bigread.js n=1000                                                                      -0.00 %       ±2.33% ±3.19%  ±4.35%
+streams\\readable-from.js type='async-generator' n=10000000                                              -0.50 %       ±3.57% ±4.89%  ±6.67%
+streams\\readable-boundaryread.js type='buffer' n=2000                                                   -1.02 %       ±2.79% ±3.97%  ±5.74%
+streams\\readable-from.js type='sync-generator-with-async-values' n=10000000                             -1.04 %       ±5.52% ±7.60% ±10.43%
+streams\\writable-manywrites.js len=32768 callback='no' writev='yes' sync='no' n=100000                  -1.05 %       ±4.37% ±6.12%  ±8.61%
+streams\\readable-bigunevenread.js n=1000                                                                -1.15 %       ±1.56% ±2.15%  ±2.94%
+streams\\readable-unevenread.js n=1000                                                                   -1.33 %       ±2.55% ±3.50%  ±4.77%
+streams\\pipe-object-mode.js n=5000000                                                                   -2.13 %       ±6.98% ±9.96% ±14.48%
+streams\\readable-uint8array.js kind='encoding' n=1000000                                                -2.16 %       ±2.96% ±4.08%  ±5.61%

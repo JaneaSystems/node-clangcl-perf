@@ -1,0 +1,641 @@
+"binary","filename","configuration","rate","time"
+"old","module\module-loader-circular.js","n=10000",2046.8444086310353,4.885569200
+"new","module\module-loader-circular.js","n=10000",2125.844510332869,4.704012900
+"old","module\module-loader-circular.js","n=10000",2060.674287658385,4.852780500
+"new","module\module-loader-circular.js","n=10000",2132.583437380302,4.689148300
+"old","module\module-loader-circular.js","n=10000",2050.6321165777795,4.876545100
+"new","module\module-loader-circular.js","n=10000",2115.067900236308,4.727980600
+"old","module\module-loader-circular.js","n=10000",2056.2488941236415,4.863224500
+"new","module\module-loader-circular.js","n=10000",2129.4802347607156,4.695981600
+"old","module\module-loader-circular.js","n=10000",2038.858024203039,4.904706400
+"new","module\module-loader-circular.js","n=10000",2134.8086853837444,4.684260500
+"old","module\module-loader-circular.js","n=10000",2047.7134013770751,4.883495900
+"new","module\module-loader-circular.js","n=10000",2135.6457536047833,4.682424500
+"old","module\module-loader-circular.js","n=10000",2048.98575819665,4.880463400
+"new","module\module-loader-circular.js","n=10000",2136.613302541602,4.680304100
+"old","module\module-loader-circular.js","n=10000",2019.7574695428148,4.951089500
+"new","module\module-loader-circular.js","n=10000",2146.4148561442717,4.658931600
+"old","module\module-loader-circular.js","n=10000",2070.4388986772337,4.829893800
+"new","module\module-loader-circular.js","n=10000",2128.643732517183,4.697827000
+"old","module\module-loader-circular.js","n=10000",2046.0356381761112,4.887500400
+"new","module\module-loader-circular.js","n=10000",2130.9539385782364,4.692734000
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",717308.657915501,0.001394100
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1648.1037988957376,0.606757900
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",631153.7490532694,0.001584400
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1896.6924717999764,0.527233600
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",773275.5954222084,0.001293200
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1760.3830030091988,0.568058200
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",652188.0910454575,0.001533300
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1970.2814566763677,0.507541700
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",524548.8879563576,0.001906400
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1805.143757135959,0.553972500
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",601286.753652817,0.001663100
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1884.2117936961433,0.530725900
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",559409.2638174088,0.001787600
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1817.0281704779438,0.550349200
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",624375.6243756245,0.001601600
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1999.9012048804789,0.500024700
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",547915.1827297134,0.001825100
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1766.8259695855045,0.565986700
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",656555.7087518875,0.001523100
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1744.3866509764903,0.573267400
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",762834.6937218704,0.001310900
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1894.2088164433994,0.527924900
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",626762.7702914447,0.001595500
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1875.047930912734,0.533319700
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",520264.2942614849,0.001922100
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1854.1073390945394,0.539343100
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",624726.6820765915,0.001600700
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1865.4569054271178,0.536061700
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",603318.2503770739,0.001657500
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1884.3204377351751,0.530695300
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",645827.9514337381,0.001548400
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",2010.6346487843502,0.497355400
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",519291.6861401049,0.001925700
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1774.8285648718477,0.563434700
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",665823.2904987016,0.001501900
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1957.412191467797,0.510878600
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",781738.5866166353,0.001279200
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1904.0332946878043,0.525200900
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",665203.2195835828,0.001503300
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1971.9933559599851,0.507101100
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",543065.0591940915,0.001841400
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1833.9639112581544,0.545267000
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",585205.9925093633,0.001708800
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1883.788343569839,0.530845200
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",552150.6266909613,0.001811100
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1904.6897079520224,0.525019900
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",689845.4746136864,0.001449600
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1821.1751679123504,0.549096000
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",547195.6224350205,0.001827500
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1886.4489767429138,0.530096500
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",653466.640528001,0.001530300
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1911.8554346689364,0.523052100
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",538996.3887241955,0.001855300
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1881.3192337236255,0.531541900
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",679994.5600435196,0.001470600
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1961.3204079703355,0.509860600
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",512978.3523135324,0.001949400
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1814.2712389930432,0.551185500
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",661550.6747816883,0.001511600
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1934.2071694483468,0.517007700
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",778513.0400934216,0.001284500
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1728.916297975266,0.578397000
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",702790.0766041183,0.001422900
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1986.017641397505,0.503520200
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",379233.19048883155,0.002636900
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1831.510217537626,0.545997500
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",673627.4840013473,0.001484500
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1780.9626138547137,0.561494100
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",518752.9179851636,0.001927700
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1877.6553567348026,0.532579100
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",630278.5831337451,0.001586600
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1919.4753229373268,0.520975700
+"old","module\module-loader-deep.js","cache='true' files=1000 ext=''",553158.5352361987,0.001807800
+"old","module\module-loader-deep.js","cache='false' files=1000 ext=''",1854.3545436878514,0.539271200
+"old","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",658414.5377929944,0.001518800
+"old","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",1726.6558716141574,0.579154200
+"new","module\module-loader-deep.js","cache='true' files=1000 ext=''",583464.6128712294,0.001713900
+"new","module\module-loader-deep.js","cache='false' files=1000 ext=''",1923.5648426975995,0.519868100
+"new","module\module-loader-deep.js","cache='true' files=1000 ext='.js'",653509.3451836362,0.001530200
+"new","module\module-loader-deep.js","cache='false' files=1000 ext='.js'",2033.1732548257366,0.491842000
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",21701.954043942114,0.023039400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1781.606410362393,0.280645600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1415637.7575505164,0.353197700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",798010.9736085002,0.626557800
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",21364.59971285978,0.023403200
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1877.0819184828372,0.266370900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1413542.2435685948,0.353721300
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",804211.2360533687,0.621727200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22502.148955225224,0.022220100
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2057.1153975910356,0.243058800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1379206.0958702709,0.362527400
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",834425.039426583,0.599215000
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22478.57791524677,0.022243400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2098.359334803304,0.238281400
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1357248.7807155577,0.368392300
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",823194.0521924786,0.607390200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",21231.873288180217,0.023549500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2402.73027046093,0.208096600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1335119.9017778991,0.374498200
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",880172.4433851079,0.568070500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",19312.77424139423,0.025889600
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2311.197149276988,0.216338100
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1323085.9444875477,0.377904400
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",869292.486322552,0.575180400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",23659.791131363894,0.021132900
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1925.9658718847502,0.259610000
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1437413.5755087724,0.347847000
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",802640.752286282,0.622943700
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22903.420854938893,0.021830800
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1832.0245960294164,0.272922100
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1481074.6796361413,0.337592700
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",813321.2918405005,0.614763200
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23600.379494102264,0.021186100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2164.0225196839488,0.231051200
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1360593.0879694181,0.367486800
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",865801.4654901925,0.577499600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22034.002873233974,0.022692200
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2147.7146597848164,0.232805600
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1460046.2717864455,0.342454900
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",871396.3621293232,0.573791700
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",23268.80119136262,0.021488000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2551.7442703134157,0.195944400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1374629.3999137832,0.363734400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",912960.8672105724,0.547668600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22205.148929933872,0.022517300
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2537.3665281772014,0.197054700
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1403274.7943220134,0.356309400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",915946.6867735283,0.545883300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22269.63179390792,0.022452100
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1724.5785905984942,0.289925900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1423100.2181328016,0.351345600
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",807869.1626807749,0.618912100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22599.176486008848,0.022124700
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1865.1795962781462,0.268070700
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1429178.625318814,0.349851300
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",794486.7702857499,0.629337100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22651.39056886702,0.022073700
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2049.4642290612387,0.243966200
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1392471.7961800043,0.359073700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",832680.6504834627,0.600470300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",21639.401021379726,0.023106000
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",1982.0835503714823,0.252259800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1354248.3447699607,0.369208500
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",823255.7228209944,0.607344700
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22356.860202553155,0.022364500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2418.0381779211834,0.206779200
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1356183.763984967,0.368681600
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",864160.8307005233,0.578596000
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22335.587738655755,0.022385800
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2479.9963494453737,0.201613200
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1305208.696344502,0.383080500
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",859691.0304824088,0.581604300
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",23311.436124333875,0.021448700
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1939.8220640017134,0.257755600
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1412247.8607975529,0.354045500
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",836559.6651084347,0.597686000
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",23781.09973317606,0.021025100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1882.629355463014,0.265586000
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1470266.506388014,0.340074400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",844604.438801736,0.591993100
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23700.27681923325,0.021096800
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2169.6077869827004,0.230456400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1443846.0825423705,0.346297300
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",866828.0006941558,0.576815700
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",23184.427483747717,0.021566200
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2157.517784419097,0.231747800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1444210.161462696,0.346210000
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",862533.5439295234,0.579687600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",23411.96632422764,0.021356600
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2557.0751969331463,0.195535900
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1404125.6018433361,0.356093500
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",881359.1827755623,0.567305600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",21568.92349502836,0.023181500
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2571.0800798886003,0.194470800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1426796.9008829875,0.350435300
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",911852.1632324795,0.548334500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",20933.0268738199,0.023885700
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1855.5850139985334,0.269456800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1333807.457424199,0.374866700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",811040.0063326003,0.616492400
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22253.575036829665,0.022468300
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1773.0094068787091,0.282006400
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1417736.6797967986,0.352674800
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",806028.8377773465,0.620325200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22753.33563900468,0.021974800
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",1865.4934454022305,0.268025600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1342203.6890736835,0.372521700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",838661.7708947129,0.596187900
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22647.59437252575,0.022077400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2058.6687659598297,0.242875400
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1387122.6194201605,0.360458400
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",830213.6671102222,0.602254600
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22309.37752374833,0.022412100
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2475.7917086725993,0.201955600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1351935.2412203974,0.369840200
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",865058.9373304592,0.577995300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22226.469947589983,0.022495700
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2437.0616639964596,0.205165100
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1354758.7526898736,0.369069400
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",842718.8334344316,0.593317700
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22274.691495522784,0.022447000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1888.6433232870102,0.264740300
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1481382.2837344818,0.337522600
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",844448.2425849844,0.592102600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",23352.48236887581,0.021411000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1933.7003754472648,0.258571600
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1388008.2747501307,0.360228400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",830589.8949104442,0.601981800
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23002.46586434066,0.021736800
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2131.429029381323,0.234584400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1451020.7931279656,0.344585000
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",864876.3840832994,0.578117300
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22985.96936430003,0.021752400
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",1859.6084854679036,0.268873800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1376624.6924620436,0.363207200
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",854922.9885371925,0.584848000
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",23500.989391653387,0.021275700
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2531.876322905379,0.197482000
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1374391.7285807235,0.363797300
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",905372.6260224372,0.552258800
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22970.024118525325,0.021767500
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2580.4014382125456,0.193768300
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1422875.454857711,0.351401100
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",895443.5355692558,0.558382500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",19900.1014905176,0.025125500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1776.7379517622753,0.281414600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1424532.6749333248,0.350992300
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",752620.662778829,0.664345300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22685.510764274855,0.022040500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1821.6389577164807,0.274478100
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1413137.9434603509,0.353822500
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",808876.6773675659,0.618141200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22359.6595965423,0.022361700
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2051.417550041254,0.243733900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1334905.3178356164,0.374558400
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",818938.5769861225,0.610546400
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",21872.07461002091,0.022860200
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2089.4266237247707,0.239300100
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1378562.3083970712,0.362696700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",837924.7419568861,0.596712300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22227.952094317647,0.022494200
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2122.810533216041,0.235536800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1323869.2567903902,0.377680800
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",857024.9305124186,0.583413600
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",21313.32722351286,0.023459500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2474.223539168938,0.202083600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1320976.042778488,0.378508000
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",880015.9810902165,0.568171500
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",21074.904425308432,0.023724900
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1936.1616524597578,0.258242900
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1459047.172162314,0.342689400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",823029.5520283069,0.607511600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22932.623950832454,0.021803000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1988.43684207596,0.251453800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1491258.837199869,0.335287200
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",793554.0556325832,0.630076800
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23215.429903330947,0.021537400
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2162.803754973367,0.231181400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1426962.630131857,0.350394600
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",863188.13358009,0.579248000
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",21555.53352101018,0.023195900
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2120.7585359470695,0.235764700
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1402998.37588908,0.356379600
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",856741.6572639269,0.583606500
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",19429.925971982047,0.025733500
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2459.403850344292,0.203301300
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1418407.5255029674,0.352508000
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",894586.5703948383,0.558917400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22731.509053960057,0.021995900
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2428.273652842343,0.205907600
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1428054.064984457,0.350126800
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",895522.6019158453,0.558333200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22379.17483506548,0.022342200
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1833.9955279853045,0.272628800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1414235.5250872653,0.353547900
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",794250.7681596304,0.629524100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22383.482780386697,0.022337900
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1856.9005581471697,0.269265900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1333114.3470832524,0.375061600
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",813909.1208609466,0.614319200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22865.505099007634,0.021867000
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2054.1928952862845,0.243404600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1371010.5307318866,0.364694500
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",786860.9331887398,0.635436300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",21813.010151774924,0.022922100
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2050.836967074633,0.243802900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1378489.7156396275,0.362715800
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",836230.733452959,0.597921100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",20992.879215370147,0.023817600
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2377.590920265586,0.210296900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1288043.3256557363,0.388185700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",863673.4623373594,0.578922500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",21895.34898996755,0.022835900
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2477.592652054816,0.201808800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1340656.1761214656,0.372951700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",859481.0384731216,0.581746400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",23130.90705538927,0.021616100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1794.608493594863,0.278612300
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1467568.4972920427,0.340699600
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",841343.6257703553,0.594287500
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",23115.93566372786,0.021630100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1868.5008867905208,0.267594200
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1468692.7576997688,0.340438800
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",830629.0819189659,0.601953400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23456.228332309078,0.021316300
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",1929.0957016661214,0.259188800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1428902.5256995265,0.349918900
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",853559.8567385136,0.585782000
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",23417.777840225186,0.021351300
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2134.967522874042,0.234195600
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1431323.6594938268,0.349327000
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",867971.9228442397,0.576055500
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22473.22315461128,0.022248700
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2346.7545792222104,0.213060200
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1424213.7414408315,0.351070900
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",911905.7133263894,0.548302300
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22030.119579489077,0.022696200
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2587.4305727691562,0.193241900
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1411159.7334037032,0.354318500
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",916478.2234692844,0.545566700
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22492.734846644533,0.022229400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1847.2283078132584,0.270675800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1404425.738741983,0.356017400
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",796602.1413621482,0.627665900
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22820.942322350373,0.021909700
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1839.4031798866413,0.271827300
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1430620.4858558844,0.349498700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",802718.8408226199,0.622883100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",21138.61009410909,0.023653400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",1921.3809349055352,0.260229500
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1388634.3059328012,0.360066000
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",816787.532163051,0.612154300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22514.00371030781,0.022208400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2070.7912410500403,0.241453600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1390504.577958222,0.359581700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",825229.0340661147,0.605892400
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22546.08419609682,0.022176800
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2410.999171098485,0.207382900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1343234.9449555753,0.372235700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",872604.765364432,0.572997100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22386.89023707717,0.022334500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2437.2137187835574,0.205152300
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1320437.7620903903,0.378662300
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",883084.3947860578,0.566197300
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",21722.696742464395,0.023017400
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1903.9263530823807,0.262615200
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1448808.80388953,0.345111100
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",804295.3230870398,0.621662200
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",23883.106523431714,0.020935300
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1919.2325526407105,0.260520800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1462616.9727923989,0.341853000
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",832509.8423476112,0.600593500
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22613.690328124645,0.022110500
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2078.7600611986963,0.240528000
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1429295.0602419283,0.349822800
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",849045.053556913,0.588896900
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22579.071909828217,0.022144400
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2128.244615328299,0.234935400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1414281.1279740566,0.353536500
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",855530.060759745,0.584433000
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",23569.341001225606,0.021214000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2431.1131921440037,0.205667100
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1331375.6785356146,0.375551400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",886768.9986267496,0.563844700
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22016.829664595614,0.022709900
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2566.22397592266,0.194838800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1427378.1404460156,0.350292600
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",914841.6034099439,0.546542700
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22495.872007486625,0.022226300
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1786.8368021196172,0.279824100
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1407156.1205944053,0.355326600
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",792500.0332850014,0.630914800
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22239.8163880759,0.022482200
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1896.9731138206635,0.263577800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1415272.7173915505,0.353288800
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",775151.4956083016,0.645035200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",20895.497438212013,0.023928600
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2071.070867902958,0.241421000
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1383911.037769977,0.361294900
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",835218.2817922917,0.598645900
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22169.311465524504,0.022553700
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2039.972860201068,0.245101300
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1335653.452423757,0.374348600
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",818668.3900182055,0.610747900
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22140.25408155584,0.022583300
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2451.5993008038795,0.203948500
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1338298.9577863035,0.373608600
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",840341.077636591,0.594996500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",21208.098100178573,0.023575900
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2485.887616003946,0.201135400
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1330901.5100940894,0.375685200
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",860368.847007663,0.581146100
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",23339.292632718887,0.021423100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1820.3178784704814,0.274677300
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1470053.8274909472,0.340123600
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",821104.2176675025,0.608936100
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22578.664065604567,0.022144800
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1909.2801708271152,0.261878800
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1476776.798773212,0.338575200
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",813519.6553670414,0.614613300
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22574.28067054643,0.022149100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2086.367259055877,0.239651000
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1428138.0906707738,0.350106200
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",832659.5729622114,0.600485500
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",23359.792191288667,0.021404300
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2152.4503063797765,0.232293400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1423188.9280455601,0.351323700
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",846403.0662813163,0.590735100
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",23275.408599797967,0.021481900
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2528.7621405870373,0.197725200
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1392303.1255534403,0.359117200
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",896087.5384331946,0.557981200
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22842.41928631145,0.021889100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2531.311052058437,0.197526100
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1372090.6875107368,0.364407400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",917202.1445653663,0.545136100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22514.916131937407,0.022207500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1837.0243438792002,0.272179300
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1406050.5165829598,0.355606000
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",793743.6490586279,0.629926300
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22329.90197173034,0.022391500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1895.013952987736,0.263850300
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1407468.647932133,0.355247700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",807099.3752405156,0.619502400
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22554.22034571109,0.022168800
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",1978.3051147891758,0.252741600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1370639.9600211738,0.364793100
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",807276.4671644333,0.619366500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22188.298778756034,0.022534400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2091.0624228136585,0.239112900
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1353249.5581640191,0.369481000
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",807965.1140054935,0.618838600
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",21870.83087286486,0.022861500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2226.156087379298,0.224602400
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1352119.1357578994,0.369789900
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",848806.3660477453,0.589062500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22440.241636521943,0.022281400
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2417.569346767927,0.206819300
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1328067.4573272003,0.376486900
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",876734.1582466579,0.570298300
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",23471.09300185891,0.021302800
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1871.5894960408395,0.267152600
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1457418.3175329755,0.343072400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",827748.925209408,0.604047900
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",23017.50250890777,0.021722600
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1908.8173235097956,0.261942300
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1468357.6273102772,0.340516500
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",840394.1852117853,0.594958900
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23479.13878518936,0.021295500
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2105.139951809136,0.237513900
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1435462.8807960043,0.348319700
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",860562.2397337076,0.581015500
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",22384.08402089778,0.022337300
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2133.9442673507806,0.234307900
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1460686.072562794,0.342304900
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",855608.0917937431,0.584379700
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",23532.73403303996,0.021247000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2504.860682153719,0.199611900
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1404727.582584637,0.355940900
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",895908.6717867249,0.558092600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22701.475595913736,0.022025000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2510.104425364304,0.199194900
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1395389.8551808593,0.358322800
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",909236.8829395701,0.549911700
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22037.207621347883,0.022688900
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1854.7913526659474,0.269572100
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1388366.7087434337,0.360135400
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",784073.0304438309,0.637695700
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22185.54212590739,0.022537200
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1836.2748007274588,0.272290400
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1429455.6489943063,0.349783500
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",791073.6514883894,0.632052400
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22619.521551880134,0.022104800
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",1980.7345831504456,0.252431600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1388020.6048882753,0.360225200
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",817349.7858216622,0.611733200
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",21923.958940809698,0.022806100
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2044.1119355695919,0.244605000
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1401656.4214926632,0.356720800
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",830300.6601720549,0.602191500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22127.222679518156,0.022596600
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2399.1931033754727,0.208403400
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1111699.0764004074,0.449762000
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",865057.1413494718,0.577996500
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",21165.72338092799,0.023623100
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2325.778275184225,0.214981800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1342540.6561586906,0.372428200
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",851280.5984298299,0.587350400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",23335.044569935126,0.021427000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1910.5225852427413,0.261708500
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1392022.873719861,0.359189500
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",833583.6863004522,0.599819800
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22979.314021517832,0.021758700
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1952.4202982985828,0.256092400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1416695.0714028485,0.352934100
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",824472.4530561875,0.606448400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23733.68902221948,0.021067100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2136.7877498813014,0.233996100
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1384037.4531607125,0.361261900
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",857783.8912988803,0.582897400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",23371.694073873252,0.021393400
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2033.3998119511855,0.245893600
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1457236.9446870743,0.343115100
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",872767.2867270947,0.572890400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",21725.433965543463,0.023014500
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2523.35363791894,0.198149000
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1401034.6921408398,0.356879100
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",887950.739334424,0.563094300
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",22843.775984795182,0.021887800
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2337.0590729073624,0.213944100
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1367566.6257946587,0.365612900
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",904143.109217956,0.553009800
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",22265.169259816714,0.022456600
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1813.9141728369982,0.275647000
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1389364.3602477293,0.359876800
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",800975.1391734353,0.624239100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22614.713132363915,0.022109500
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1795.680311442793,0.278446000
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1385982.5604586382,0.360754900
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",810606.7569909564,0.616821900
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",22507.213561946603,0.022215100
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",1987.3469593790257,0.251591700
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1395810.5583577228,0.358214800
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",811978.1720779869,0.615780100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",20003.36056457485,0.024995800
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2067.1766253589653,0.241875800
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1366563.791744424,0.365881200
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",816048.075024196,0.612709000
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",22549.64303915069,0.022173300
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2452.5168218128806,0.203872200
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1319610.4404410983,0.378899700
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",866997.246936942,0.576703100
+"old","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",21872.265966754156,0.022860000
+"old","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2466.704423689045,0.202699600
+"old","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1349258.177853816,0.370574000
+"old","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",878974.6795522011,0.568844600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name=''",23521.22084544676,0.021257400
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name=''",1877.6937864483834,0.266284100
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name=''",1410798.9890778766,0.354409100
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name=''",834739.0338663643,0.598989600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name=''",22690.1434017063,0.022036000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name=''",1906.5820550971707,0.262249400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name=''",1447692.1326329205,0.345377300
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name=''",812208.3359865473,0.615605600
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/'",23266.63564448581,0.021490000
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/'",2083.2777792592196,0.240006400
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/'",1406539.7911513457,0.355482300
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/'",850351.9947046881,0.587991800
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/'",23201.963814217233,0.021549900
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/'",2105.6133546421406,0.237460500
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/'",1422749.1326209914,0.351432300
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/'",865367.2081903891,0.577789400
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='rel' name='/index.js'",23098.84921533209,0.021646100
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='rel' name='/index.js'",2470.76223509105,0.202366700
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='rel' name='/index.js'",1397747.5019456646,0.357718400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='rel' name='/index.js'",906037.0699630954,0.551853800
+"new","module\module-loader.js","cache='true' n=1 files=500 dir='abs' name='/index.js'",21833.298400055894,0.022900800
+"new","module\module-loader.js","cache='false' n=1 files=500 dir='abs' name='/index.js'",2575.4013119094284,0.194144500
+"new","module\module-loader.js","cache='true' n=1000 files=500 dir='abs' name='/index.js'",1363700.581536476,0.366649400
+"new","module\module-loader.js","cache='false' n=1000 files=500 dir='abs' name='/index.js'",889961.747664162,0.561821900
+"old","module\module-require.js","n=10000 type='.js'",2866.3609100374856,3.488744200
+"old","module\module-require.js","n=10000 type='.json'",4947.288373926742,2.021309300
+"old","module\module-require.js","n=10000 type='dir'",2125.9427626052197,4.703795500
+"new","module\module-require.js","n=10000 type='.js'",3006.874285923736,3.325712700
+"new","module\module-require.js","n=10000 type='.json'",5086.266901347021,1.966078500
+"new","module\module-require.js","n=10000 type='dir'",2205.355418938688,4.534416500
+"old","module\module-require.js","n=10000 type='.js'",2943.8642186198354,3.396895800
+"old","module\module-require.js","n=10000 type='.json'",4948.4375283761965,2.020839900
+"old","module\module-require.js","n=10000 type='dir'",2126.6100245504367,4.702319600
+"new","module\module-require.js","n=10000 type='.js'",3018.564928954301,3.312832500
+"new","module\module-require.js","n=10000 type='.json'",5024.756220183411,1.990146300
+"new","module\module-require.js","n=10000 type='dir'",2194.729335553375,4.556370500
+"old","module\module-require.js","n=10000 type='.js'",2864.7947238502616,3.490651500
+"old","module\module-require.js","n=10000 type='.json'",4867.239709511453,2.054552600
+"old","module\module-require.js","n=10000 type='dir'",2147.2933742793552,4.657025500
+"new","module\module-require.js","n=10000 type='.js'",2989.361281708977,3.345196200
+"new","module\module-require.js","n=10000 type='.json'",5201.663283851644,1.922462000
+"new","module\module-require.js","n=10000 type='dir'",2216.663961967189,4.511283700
+"old","module\module-require.js","n=10000 type='.js'",2916.6734965437713,3.428563400
+"old","module\module-require.js","n=10000 type='.json'",4845.083071614058,2.063948100
+"old","module\module-require.js","n=10000 type='dir'",2134.455408003499,4.685035800
+"new","module\module-require.js","n=10000 type='.js'",2970.3019409942985,3.366661100
+"new","module\module-require.js","n=10000 type='.json'",5093.603625749308,1.963246600
+"new","module\module-require.js","n=10000 type='dir'",2152.5554815793985,4.645641000
+"old","module\module-require.js","n=10000 type='.js'",2882.2648422083935,3.469493800
+"old","module\module-require.js","n=10000 type='.json'",4997.7744910191495,2.000890600
+"old","module\module-require.js","n=10000 type='dir'",2048.931726951736,4.880592100
+"new","module\module-require.js","n=10000 type='.js'",2979.846641596621,3.355877400
+"new","module\module-require.js","n=10000 type='.json'",5056.771360712446,1.977546400
+"new","module\module-require.js","n=10000 type='dir'",2191.139544409063,4.563835300
+"old","module\module-require.js","n=10000 type='.js'",2903.2808844996184,3.444379100
+"old","module\module-require.js","n=10000 type='.json'",4970.376308681442,2.011920100
+"old","module\module-require.js","n=10000 type='dir'",2148.1684125368397,4.655128500
+"new","module\module-require.js","n=10000 type='.js'",3035.108158355554,3.294775500
+"new","module\module-require.js","n=10000 type='.json'",5107.765161711334,1.957803400
+"new","module\module-require.js","n=10000 type='dir'",2199.457253130389,4.546576200
+"old","module\module-require.js","n=10000 type='.js'",2892.834483697894,3.456817200
+"old","module\module-require.js","n=10000 type='.json'",4842.604224707296,2.065004600
+"old","module\module-require.js","n=10000 type='dir'",2114.20781478863,4.729904000
+"new","module\module-require.js","n=10000 type='.js'",2973.9056138862356,3.362581500
+"new","module\module-require.js","n=10000 type='.json'",5158.719882232615,1.938465400
+"new","module\module-require.js","n=10000 type='dir'",2208.131399716829,4.528716000
+"old","module\module-require.js","n=10000 type='.js'",2822.0897608544205,3.543473400
+"old","module\module-require.js","n=10000 type='.json'",4901.273885194227,2.040285900
+"old","module\module-require.js","n=10000 type='dir'",2122.0792285070615,4.712359400
+"new","module\module-require.js","n=10000 type='.js'",3019.5751204161265,3.311724200
+"new","module\module-require.js","n=10000 type='.json'",5103.820122596821,1.959316700
+"new","module\module-require.js","n=10000 type='dir'",2104.6520112591306,4.751379300
+"old","module\module-require.js","n=10000 type='.js'",2919.5741123815897,3.425157100
+"old","module\module-require.js","n=10000 type='.json'",4963.988743659125,2.014509000
+"old","module\module-require.js","n=10000 type='dir'",2134.9285975265484,4.683997400
+"new","module\module-require.js","n=10000 type='.js'",3011.2093170188823,3.320924900
+"new","module\module-require.js","n=10000 type='.json'",5215.564768213261,1.917337900
+"new","module\module-require.js","n=10000 type='dir'",2186.5762193786672,4.573359900
+"old","module\module-require.js","n=10000 type='.js'",2891.7291774172722,3.458138500
+"old","module\module-require.js","n=10000 type='.json'",4975.7878164849835,2.009732000
+"old","module\module-require.js","n=10000 type='dir'",2125.2845012097546,4.705252400
+"new","module\module-require.js","n=10000 type='.js'",2965.522362529652,3.372087200
+"new","module\module-require.js","n=10000 type='.json'",5064.968349012787,1.974346000
+"new","module\module-require.js","n=10000 type='dir'",2236.1624589915755,4.471947000

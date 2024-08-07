@@ -1,0 +1,201 @@
+"binary","filename","configuration","rate","time"
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1156815.6105325748,0.086444200
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1961965.339920305,0.050969300
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1915907.009537385,0.052194600
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1707201.3165936554,0.058575400
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2561272.0301410495,0.039043100
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1432455.429149322,0.069810200
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1953228.0022579315,0.051197300
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1997594.8957455223,0.050060200
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1983371.4140644835,0.050419200
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2630125.4569842983,0.038021000
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1452989.9627453373,0.068823600
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1949085.9761314932,0.051306100
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1955848.672076544,0.051128700
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1940123.8963120184,0.051543100
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2740214.010714237,0.036493500
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1542778.9460042797,0.064818100
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1948360.649349637,0.051325200
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2015970.5184471384,0.049603900
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1986712.8643631393,0.050334400
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2595676.6409867723,0.038525600
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1511642.6718586555,0.066153200
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1997463.2217084304,0.050063500
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2051458.7923472382,0.048745800
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1912641.9897597148,0.052283700
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2693015.126665966,0.037133100
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1507863.5081952382,0.066319000
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1915462.95781959,0.052206700
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2025472.340149723,0.049371200
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1959654.6304679262,0.051029400
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2753918.137029459,0.036311900
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1419970.464614336,0.070424000
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1974407.7270420806,0.050648100
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2007044.726991741,0.049824500
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1912097.0733442195,0.052298600
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2687081.319141961,0.037215100
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1460207.8751931125,0.068483400
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",2049234.9181433113,0.048798700
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2095535.4616988506,0.047720500
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2052389.2889907786,0.048723700
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2747305.5800523637,0.036399300
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1453777.8598354615,0.068786300
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",2012898.6545785393,0.049679600
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2070925.0407972233,0.048287600
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2018823.5104110728,0.049533800
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2696515.293286486,0.037084900
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1515826.7470661171,0.065970600
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",2005225.6179604046,0.049869700
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1992107.2709923284,0.050198100
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1929864.851564445,0.051817100
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2748385.323622372,0.036385000
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1511944.3604475355,0.066140000
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1943151.1693883736,0.051462800
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1891428.2363755694,0.052870100
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2007572.5637103154,0.049811400
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2744327.47510895,0.036438800
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1502270.6821360488,0.066565900
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",2058561.9709495734,0.048577600
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2040387.428764974,0.049010300
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2060814.640027203,0.048524500
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2615288.4532399504,0.038236700
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1485667.7630894757,0.067309800
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1967508.563581023,0.050825700
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1895709.4408225864,0.052750700
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2006541.3247185827,0.049837000
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2643719.18414826,0.037825500
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1558997.1283272896,0.064143800
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1988549.929505905,0.050287900
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2065902.2828220227,0.048405000
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2020920.5697379268,0.049482400
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2686049.1976771043,0.037229400
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1507470.2689176213,0.066336300
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1967148.6180780958,0.050835000
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2016027.4179728844,0.049602500
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1919798.4979496554,0.052088800
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2532632.9758943995,0.039484600
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1501384.2763027512,0.066605200
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1945763.7803855336,0.051393700
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1809237.6053654752,0.055271900
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2004976.3513039364,0.049875900
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2763560.7928103204,0.036185200
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1418445.752251428,0.070499700
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1918954.8604248182,0.052111700
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1945544.2173561999,0.051399500
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1910489.7349386541,0.052342600
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2744402.7905087573,0.036437800
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1566791.5399524008,0.063824700
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",2048697.5405386025,0.048811500
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1980876.6171381483,0.050482700
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",1977128.576625595,0.050578400
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2659517.8825982427,0.037600800
+"old","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1462304.7092060857,0.068385200
+"old","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1978063.278244271,0.050554500
+"old","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",2057050.2311095935,0.048613300
+"old","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2004992.4311535722,0.049875500
+"old","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2702125.7623372306,0.037007900
+"new","mime\mimetype-instantiation.js","value='application/ecmascript; ' n=100000",1454543.3388460528,0.068750100
+"new","mime\mimetype-instantiation.js","value='text/html;charset=gbk' n=100000",1901122.612902919,0.052600500
+"new","mime\mimetype-instantiation.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",1870490.9477590583,0.053461900
+"new","mime\mimetype-instantiation.js","value='text/html;test=ÿ;charset=gbk' n=100000",2034757.7315706906,0.049145900
+"new","mime\mimetype-instantiation.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",2732643.6140851383,0.036594600
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10165597.584654015,0.009837100
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5271286.773814356,0.018970700
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3698676.243772354,0.027036700
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3025013.839438315,0.033057700
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5296750.44360285,0.018879500
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9617696.56167348,0.010397500
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5283373.751142529,0.018927300
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3878915.765465237,0.025780400
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3119531.0720892437,0.032056100
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",6363104.176741581,0.015715600
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9702144.173862424,0.010307000
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5448611.421379262,0.018353300
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3969466.860905912,0.025192300
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3008215.43635669,0.033242300
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",6058843.487955019,0.016504800
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10044900.70615652,0.009955300
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5363828.486220324,0.018643400
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3949571.8664096813,0.025319200
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3111048.8901333087,0.032143500
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5896504.552101514,0.016959200
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9423205.586076273,0.010612100
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5096865.937135256,0.019619900
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3841706.3322845474,0.026030100
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3118120.646324048,0.032070600
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5655117.03264699,0.017683100
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10331645.831180908,0.009679000
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5348165.579206333,0.018698000
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3946407.7823161464,0.025339500
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3133990.635635981,0.031908200
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",6440850.449893404,0.015525900
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10578764.188767469,0.009452900
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5034410.19367376,0.019863300
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3677133.012932477,0.027195100
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",2905642.1759773125,0.034415800
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",4971093.093660365,0.020116300
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10163427.920969184,0.009839200
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5291089.2765493635,0.018899700
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",4027726.8717853706,0.024827900
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3147871.252065791,0.031767500
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5680559.421491829,0.017603900
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",8415383.320710259,0.011883000
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5106678.514160819,0.019582200
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3800662.8355985284,0.026311200
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3097855.0451667267,0.032280400
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5662097.354101906,0.017661300
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10206268.690229539,0.009797900
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5194373.4546738975,0.019251600
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3977661.4532783884,0.025140400
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3042750.6465845127,0.032865000
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5929439.667951378,0.016865000
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9445724.864926133,0.010586800
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",4501179.3089789525,0.022216400
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3698744.646067125,0.027036200
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3028284.1741869054,0.033022000
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",6094810.878018456,0.016407400
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10197214.121102115,0.009806600
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5446860.429648351,0.018359200
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3867574.2574257427,0.025856000
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3172015.212984962,0.031525700
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5770473.64047641,0.017329600
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9313241.566859761,0.010737400
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5198883.279871484,0.019234900
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",4012132.6892522993,0.024924400
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3036809.1638753326,0.032929300
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5851751.721877944,0.017088900
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10162808.187158277,0.009839800
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5359142.9658568995,0.018659700
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3935799.2427522256,0.025407800
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",2977626.1173542007,0.033583800
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",6065495.217357021,0.016486700
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9335150.575978791,0.010712200
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5193294.418247159,0.019255600
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3897268.0151214,0.025659000
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3020874.241005347,0.033103000
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",6172077.521293667,0.016202000
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9742980.182778308,0.010263800
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",4928997.786879994,0.020288100
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3853653.64902464,0.025949400
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",2998941.3736950853,0.033345100
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5667616.937106455,0.017644100
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9382447.317558313,0.010658200
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5143636.03631407,0.019441500
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3712131.6173386243,0.026938700
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3214224.873600607,0.031111700
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",6157976.7351638945,0.016239100
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9793551.925412308,0.010210800
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",4922495.311323216,0.020314900
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3734408.8430801407,0.026778000
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",2987179.0276134824,0.033476400
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5818147.9671391,0.017187600
+"old","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",10125146.814628812,0.009876400
+"old","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",5178958.92567676,0.019308900
+"old","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3878283.93692359,0.025784600
+"old","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3115565.6776822684,0.032096900
+"old","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5669609.1938382685,0.017637900
+"new","mime\mimetype-to-string.js","value='application/ecmascript; ' n=100000",9681198.145082437,0.010329300
+"new","mime\mimetype-to-string.js","value='text/html;charset=gbk' n=100000",4900951.76483273,0.020404200
+"new","mime\mimetype-to-string.js","value='text/html;012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789=x;charset=gbk' n=100000",3766946.5507953907,0.026546700
+"new","mime\mimetype-to-string.js","value='text/html;test=ÿ;charset=gbk' n=100000",3039245.780767045,0.032902900
+"new","mime\mimetype-to-string.js","value='x/x;\n\r\t x=x\n\r\t ;x=y' n=100000",5793407.102717108,0.017261000

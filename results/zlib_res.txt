@@ -1,0 +1,28 @@
+zlib\\pipe.js algorithm='brotli' type='string' duration=5 inputLen=1024        ***     25.52 %       ±3.11%  ±4.26%  ±5.80%
+zlib\\pipe.js algorithm='brotli' type='buffer' duration=5 inputLen=1024        ***     21.19 %       ±4.43%  ±6.24%  ±8.86%
+zlib\\creation.js n=500000 options='false' type='Deflate'                      ***      5.95 %       ±3.17%  ±4.35%  ±5.94%
+zlib\\creation.js n=500000 options='false' type='Inflate'                      ***      5.73 %       ±2.15%  ±2.96%  ±4.06%
+zlib\\creation.js n=500000 options='true' type='Unzip'                         ***      5.63 %       ±2.66%  ±3.66%  ±5.01%
+zlib\\creation.js n=500000 options='true' type='DeflateRaw'                    ***      5.43 %       ±2.73%  ±3.77%  ±5.18%
+zlib\\inflate.js n=400000 inputLen=1024 method='inflateSync'                   ***      4.87 %       ±2.10%  ±2.91%  ±4.03%
+zlib\\creation.js n=500000 options='false' type='Unzip'                        ***      4.78 %       ±2.41%  ±3.31%  ±4.51%
+zlib\\creation.js n=500000 options='false' type='Gunzip'                       ***      4.71 %       ±1.97%  ±2.70%  ±3.69%
+zlib\\pipe.js algorithm='gzip' type='buffer' duration=5 inputLen=1024          ***     -5.52 %       ±2.88%  ±3.95%  ±5.39%
+zlib\\deflate.js n=400000 inputLen=1024 method='deflateSync'                   ***    -10.17 %       ±1.35%  ±1.87%  ±2.60%
+zlib\\creation.js n=500000 options='true' type='Deflate'                        **      6.31 %       ±3.38%  ±4.65%  ±6.36%
+zlib\\creation.js n=500000 options='false' type='DeflateRaw'                    **      4.38 %       ±2.81%  ±3.87%  ±5.32%
+zlib\\creation.js n=500000 options='false' type='Gzip'                          **      3.65 %       ±2.28%  ±3.12%  ±4.26%
+zlib\\creation.js n=500000 options='false' type='InflateRaw'                    **      3.44 %       ±2.42%  ±3.31%  ±4.52%
+zlib\\deflate.js n=400000 inputLen=1024 method='createDeflate'                  **    -10.20 %       ±5.94%  ±8.18% ±11.26%
+zlib\\creation.js n=500000 options='false' type='BrotliDecompress'               *      4.49 %       ±3.98%  ±5.46%  ±7.46%
+zlib\\creation.js n=500000 options='true' type='BrotliCompress'                  *      3.88 %       ±3.54%  ±4.85%  ±6.62%
+zlib\\creation.js n=500000 options='true' type='Gunzip'                          *      3.38 %       ±2.77%  ±3.80%  ±5.19%
+zlib\\creation.js n=500000 options='true' type='Gzip'                            *      3.20 %       ±2.53%  ±3.47%  ±4.75%
+zlib\\creation.js n=500000 options='true' type='InflateRaw'                      *      3.01 %       ±2.54%  ±3.50%  ±4.80%
+zlib\\creation.js n=500000 options='true' type='Inflate'                         *      2.73 %       ±2.46%  ±3.41%  ±4.71%
+zlib\\pipe.js algorithm='gzip' type='string' duration=5 inputLen=1024            *     -4.24 %       ±3.24%  ±4.44%  ±6.07%
+zlib\\inflate.js n=400000 inputLen=1024 method='inflate'                               11.24 %      ±11.91% ±16.38% ±22.48%
+zlib\\creation.js n=500000 options='false' type='BrotliCompress'                        4.04 %       ±4.43%  ±6.07%  ±8.27%
+zlib\\creation.js n=500000 options='true' type='BrotliDecompress'                       3.15 %       ±4.54%  ±6.22%  ±8.48%
+zlib\\createInflate.js n=100 chunkLen=1024 inputLen=16777216                            0.96 %       ±4.59%  ±6.29%  ±8.57%
+zlib\\deflate.js n=400000 inputLen=1024 method='deflate'                               -3.66 %       ±5.17%  ±7.09%  ±9.66%

@@ -1,0 +1,2 @@
+abort_controller\\abort-signal-static-abort.js kind='same-reason' n=5000000                    4.36 %       ±4.50%  ±6.17%  ±8.42%
+abort_controller\\abort-signal-static-abort.js kind='default-reason' n=5000000                -4.39 %      ±14.94% ±20.49% ±27.96%

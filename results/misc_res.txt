@@ -1,0 +1,78 @@
+misc\\punycode.js val='českárepublika.icom.museum' n=1024 method='icu'                            ***     30.16 %      ±10.63% ±15.13% ±21.90%
+misc\\punycode.js val='افغانستا.icom.museum' n=1024 method='icu'                                  ***     27.74 %       ±8.78% ±12.43% ±17.87%
+misc\\util-extend-vs-object-assign.js n=100000 type='extend'                                      ***      8.48 %       ±1.27%  ±1.76%  ±2.43%
+misc\\structured-clone.js n=10000 type='arraybuffer'                                              ***      8.29 %       ±1.49%  ±2.04%  ±2.80%
+misc\\startup-core.js count=30 mode='worker' script='test/fixtures/snapshot/typescript'           ***      8.20 %       ±0.41%  ±0.57%  ±0.79%
+misc\\util-extend-vs-object-assign.js n=100000 type='assign'                                      ***      8.00 %       ±1.21%  ±1.67%  ±2.28%
+misc\\startup-core.js count=30 mode='process' script='test/fixtures/snapshot/typescript'          ***      7.73 %       ±0.27%  ±0.37%  ±0.52%
+misc\\startup-core.js count=30 mode='worker' script='test/fixtures/semicolon'                     ***      5.45 %       ±0.53%  ±0.74%  ±1.02%
+misc\\startup-core.js count=30 mode='worker' script='benchmark/fixtures/require-builtins'         ***      4.79 %       ±0.64%  ±0.89%  ±1.23%
+misc\\startup-cli-version.js count=30 cli='deps/npm/bin/npx-cli.js'                               ***      3.38 %       ±0.21%  ±0.29%  ±0.41%
+misc\\startup-core.js count=30 mode='process' script='benchmark/fixtures/require-builtins'        ***      3.28 %       ±0.45%  ±0.62%  ±0.85%
+misc\\startup-cli-version.js count=30 cli='deps/corepack/dist/corepack.js'                        ***      3.23 %       ±0.28%  ±0.38%  ±0.52%
+misc\\print.js code='1' dur=1                                                                     ***      3.18 %       ±1.26%  ±1.79%  ±2.60%
+misc\\startup-cli-version.js count=30 cli='deps/npm/bin/npm-cli.js'                               ***      3.10 %       ±0.30%  ±0.41%  ±0.56%
+misc\\startup-cli-version.js count=30 cli='tools/eslint/node_modules/eslint/bin/eslint.js'        ***      3.07 %       ±0.19%  ±0.27%  ±0.37%
+misc\\print.js code='process' dur=1                                                               ***      2.98 %       ±1.37%  ±1.89%  ±2.59%
+misc\\getstringwidth.js n=100000 type='fullwidth'                                                 ***      2.36 %       ±0.56%  ±0.77%  ±1.07%
+misc\\startup-core.js count=30 mode='process' script='test/fixtures/semicolon'                    ***      2.29 %       ±0.42%  ±0.58%  ±0.81%
+misc\\structured-clone.js n=10000 type='object'                                                   ***      2.12 %       ±0.68%  ±0.94%  ±1.29%
+misc\\object-property-bench.js n=1000000000 method='variable'                                     ***      0.60 %       ±0.15%  ±0.21%  ±0.28%
+misc\\object-property-bench.js n=1000000000 method='symbol'                                       ***     -0.61 %       ±0.29%  ±0.41%  ±0.59%
+misc\\getstringwidth.js n=100000 type='emojiseq'                                                  ***     -3.33 %       ±0.70%  ±0.96%  ±1.31%
+misc\\getstringwidth.js n=100000 type='mixed'                                                     ***    -10.75 %       ±0.82%  ±1.13%  ±1.56%
+misc\\trace.js method='trace' n=100000                                                            ***    -11.20 %       ±0.75%  ±1.03%  ±1.41%
+misc\\trace.js method='isTraceCategoryEnabled' n=100000                                           ***    -47.61 %       ±3.12%  ±4.44%  ±6.44%
+misc\\punycode.js val='איקו״ם.ישראל.museum' n=1024 method='icu'                                    **     24.52 %      ±16.63% ±23.72% ±34.49%
+misc\\punycode.js val='বাংলাদেশ.icom.museum' n=1024 method='icu'                                   **     21.82 %      ±15.23% ±21.77% ±31.75%
+misc\\punycode.js val='magyarország.icom.museum' n=1024 method='punycode'                          **      3.59 %       ±2.26%  ±3.14%  ±4.38%
+misc\\punycode.js val='österreich.icom.museum' n=1024 method='icu'                                  *     17.63 %      ±12.92% ±18.45% ±26.86%
+misc\\punycode.js val='القمر.icom.museum' n=1024 method='punycode'                                  *      3.68 %       ±2.81%  ±3.90%  ±5.44%
+misc\\punycode.js val='österreich.icom.museum' n=1024 method='punycode'                             *      3.27 %       ±2.55%  ±3.49%  ±4.76%
+misc\\object-property-bench.js n=1000000000 method='property'                                       *      0.41 %       ±0.35%  ±0.50%  ±0.73%
+misc\\punycode.js val='magyarország.icom.museum' n=1024 method='icu'                                      10.43 %      ±11.88% ±16.92% ±24.52%
+misc\\punycode.js val='българия.icom.museum' n=1024 method='icu'                                           9.56 %      ±11.20% ±15.99% ±23.27%
+misc\\arguments.js n=1000000 method='restAndSpread'                                                        6.37 %       ±8.30% ±11.38% ±15.53%
+misc\\print.js code='process.versions' dur=1                                                               6.02 %       ±8.30% ±11.76% ±16.90%
+misc\\punycode.js val='éire.icom.museum' n=1024 method='punycode'                                          3.96 %       ±4.77%  ±6.72%  ±9.57%
+misc\\punycode.js val='българия.icom.museum' n=1024 method='punycode'                                      3.79 %       ±4.14%  ±5.71%  ±7.85%
+misc\\punycode.js val='中国.icom.museum' n=1024 method='punycode'                                          3.12 %       ±3.95%  ±5.51%  ±7.75%
+misc\\punycode.js val='ísland.icom.museum' n=1024 method='punycode'                                        2.66 %       ±2.80%  ±3.87%  ±5.36%
+misc\\print.js code='"string"' dur=1                                                                       2.63 %       ±9.35% ±12.81% ±17.46%
+misc\\arguments.js n=1000000 method='restAndApply'                                                         2.23 %       ±5.91%  ±8.11% ±11.08%
+misc\\punycode.js val='مصر.icom.museum' n=1024 method='icu'                                                2.16 %       ±4.13%  ±5.67%  ±7.75%
+misc\\punycode.js val='مصر.icom.museum' n=1024 method='punycode'                                           2.12 %       ±3.45%  ±4.84%  ±6.86%
+misc\\arguments.js n=1000000 method='argumentsAndApply'                                                    1.67 %       ±4.95%  ±6.85%  ±9.48%
+misc\\arguments.js n=1000000 method='predefined'                                                           1.57 %       ±2.41%  ±3.30%  ±4.50%
+misc\\punycode.js val='ελλάδα.icom.museum' n=1024 method='punycode'                                        1.53 %       ±2.89%  ±3.96%  ±5.40%
+misc\\punycode.js val='تشادر.icom.museum' n=1024 method='punycode'                                         1.24 %       ±3.05%  ±4.18%  ±5.70%
+misc\\punycode.js val='日本.icom.museum' n=1024 method='punycode'                                          1.14 %       ±4.13%  ±5.68%  ±7.79%
+misc\\punycode.js val='الجزائر.icom.museum' n=1024 method='punycode'                                       0.81 %       ±2.13%  ±2.92%  ±3.98%
+misc\\punycode.js val='belgië.icom.museum' n=1024 method='punycode'                                        0.77 %       ±4.11%  ±5.77%  ±8.17%
+misc\\punycode.js val='איקו״ם.ישראל.museum' n=1024 method='punycode'                                       0.61 %       ±2.92%  ±4.00%  ±5.47%
+misc\\punycode.js val='ísland.icom.museum' n=1024 method='icu'                                             0.53 %       ±2.96%  ±4.06%  ±5.53%
+misc\\punycode.js val='भारत.icom.museum' n=1024 method='punycode'                                          0.44 %       ±3.03%  ±4.22%  ±5.91%
+misc\\structured-clone.js n=10000 type='string'                                                            0.44 %      ±14.91% ±21.31% ±31.06%
+misc\\getstringwidth.js n=100000 type='ascii'                                                              0.12 %       ±0.99%  ±1.37%  ±1.90%
+misc\\freelist.js n=100000                                                                                 0.07 %       ±0.56%  ±0.77%  ±1.06%
+misc\\punycode.js val='الجزائر.icom.museum' n=1024 method='icu'                                            0.02 %       ±5.00%  ±7.04% ±10.01%
+misc\\object-property-bench.js n=1000000000 method='string'                                               -0.06 %       ±0.57%  ±0.78%  ±1.06%
+misc\\punycode.js val='افغانستا.icom.museum' n=1024 method='punycode'                                     -0.14 %       ±2.64%  ±3.66%  ±5.07%
+misc\\punycode.js val='českárepublika.icom.museum' n=1024 method='punycode'                               -0.26 %       ±3.69%  ±5.14%  ±7.18%
+misc\\punycode.js val='κυπρος.icom.museum' n=1024 method='punycode'                                       -0.54 %       ±3.15%  ±4.32%  ±5.89%
+misc\\punycode.js val='ελλάδα.icom.museum' n=1024 method='icu'                                            -0.60 %       ±3.22%  ±4.42%  ±6.06%
+misc\\punycode.js val='κυπρος.icom.museum' n=1024 method='icu'                                            -0.61 %       ±3.29%  ±4.52%  ±6.17%
+misc\\punycode.js val='éire.icom.museum' n=1024 method='icu'                                              -0.75 %       ±3.88%  ±5.32%  ±7.25%
+misc\\punycode.js val='ايران.icom.museum' n=1024 method='punycode'                                        -0.79 %       ±5.56%  ±7.65% ±10.49%
+misc\\punycode.js val='беларусь.icom.museum' n=1024 method='punycode'                                     -1.09 %       ±2.21%  ±3.04%  ±4.16%
+misc\\punycode.js val='ايران.icom.museum' n=1024 method='icu'                                             -1.12 %       ±3.27%  ±4.49%  ±6.12%
+misc\\punycode.js val='الأردن.icom.museum' n=1024 method='icu'                                            -1.37 %       ±3.37%  ±4.63%  ±6.34%
+misc\\punycode.js val='تشادر.icom.museum' n=1024 method='icu'                                             -1.49 %       ±3.83%  ±5.27%  ±7.23%
+misc\\punycode.js val='الأردن.icom.museum' n=1024 method='punycode'                                       -1.59 %       ±4.04%  ±5.67%  ±8.04%
+misc\\punycode.js val='日本.icom.museum' n=1024 method='icu'                                              -1.68 %       ±2.59%  ±3.55%  ±4.84%
+misc\\punycode.js val='বাংলাদেশ.icom.museum' n=1024 method='punycode'                                     -1.83 %       ±2.74%  ±3.85%  ±5.48%
+misc\\punycode.js val='беларусь.icom.museum' n=1024 method='icu'                                          -1.89 %       ±2.05%  ±2.82%  ±3.88%
+misc\\punycode.js val='القمر.icom.museum' n=1024 method='icu'                                             -2.36 %       ±4.32%  ±5.96%  ±8.23%
+misc\\punycode.js val='belgië.icom.museum' n=1024 method='icu'                                            -2.52 %       ±2.60%  ±3.64%  ±5.15%
+misc\\punycode.js val='भारत.icom.museum' n=1024 method='icu'                                              -3.10 %       ±3.43%  ±4.70%  ±6.41%
+misc\\punycode.js val='中国.icom.museum' n=1024 method='icu'                                              -3.23 %       ±6.23%  ±8.70% ±12.23%

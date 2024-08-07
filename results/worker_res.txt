@@ -1,0 +1,11 @@
+worker\\messageport.js n=1000000 style='eventemitter' payload='object'          ***      8.41 %       ±0.42%  ±0.58%  ±0.79%
+worker\\messageport.js n=1000000 style='eventemitter' payload='string'          ***      8.06 %       ±0.34%  ±0.47%  ±0.64%
+worker\\messageport.js n=1000000 style='eventtarget' payload='string'           ***      6.94 %       ±0.56%  ±0.76%  ±1.04%
+worker\\messageport.js n=1000000 style='eventtarget' payload='object'           ***      5.92 %       ±2.95%  ±4.06%  ±5.58%
+worker\\atomics-wait.js n=10000000                                              ***     -5.29 %       ±0.72%  ±0.99%  ±1.35%
+worker\\echo.js n=100000 sendsPerBroadcast=1 payload='object' workers=1                 10.45 %      ±10.63% ±14.56% ±19.85%
+worker\\echo.js n=100000 sendsPerBroadcast=10 payload='string' workers=1                 5.67 %      ±26.10% ±35.78% ±48.79%
+worker\\echo.js n=100000 sendsPerBroadcast=10 payload='object' workers=1                 4.02 %      ±12.61% ±17.28% ±23.56%
+worker\\bench-eventlooputil.js method='ELU_passed' n=1000000                             0.15 %       ±1.64%  ±2.28%  ±3.18%
+worker\\bench-eventlooputil.js method='ELU_simple' n=1000000                            -1.94 %       ±2.31%  ±3.23%  ±4.53%
+worker\\echo.js n=100000 sendsPerBroadcast=1 payload='string' workers=1                 -2.34 %      ±13.13% ±18.06% ±24.75%

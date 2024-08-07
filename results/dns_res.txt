@@ -1,0 +1,8 @@
+dns\\lookup-promises.js n=5000000 all='true' name='::1'               ***     -5.98 %       ±2.45%  ±3.36%  ±4.58%
+dns\\lookup-promises.js n=5000000 all='false' name='::1'                *     -3.21 %       ±2.56%  ±3.64%  ±5.26%
+dns\\lookup.js n=5000000 all='false' name='127.0.0.1'                          2.67 %       ±3.55%  ±4.88%  ±6.68%
+dns\\lookup-promises.js n=5000000 all='false' name='127.0.0.1'                 1.95 %       ±8.35% ±11.71% ±16.55%
+dns\\lookup-promises.js n=5000000 all='true' name='127.0.0.1'                  1.38 %       ±3.58%  ±4.99%  ±6.98%
+dns\\lookup.js n=5000000 all='true' name='::1'                                 0.58 %       ±2.79%  ±3.84%  ±5.26%
+dns\\lookup.js n=5000000 all='false' name='::1'                               -0.66 %       ±3.07%  ±4.38%  ±6.37%
+dns\\lookup.js n=5000000 all='true' name='127.0.0.1'                          -4.61 %       ±5.67%  ±7.78% ±10.63%

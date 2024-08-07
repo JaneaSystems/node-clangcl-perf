@@ -1,0 +1,301 @@
+"binary","filename","configuration","rate","time"
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",40420698.631355144,0.024739800
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",14102204.315556565,0.070910900
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11700682.500810271,0.085465100
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36954778.43762588,0.027060100
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13234690.771450125,0.075559000
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11219818.687730007,0.089128000
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",40002720.18497258,0.024998300
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13225623.85267713,0.075610800
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11771935.235521108,0.084947800
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36445140.951582626,0.027438500
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",12965460.014521316,0.077128000
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11459741.926611813,0.087262000
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",39220454.25130114,0.025496900
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13747046.103468517,0.072742900
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11766768.527659556,0.084985100
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36228208.73244743,0.027602800
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13239579.457998095,0.075531100
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11634265.237978896,0.085953000
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",38921561.37735622,0.025692700
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13177643.86363247,0.075886100
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11385462.813370632,0.087831300
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36018124.3201579,0.027763800
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",12905840.279901862,0.077484300
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11696467.315976556,0.085495900
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",39645411.44007993,0.025223600
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",14125131.71685326,0.070795800
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11878628.921135407,0.084184800
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36214301.75204792,0.027613400
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",12953552.446990825,0.077198900
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11731677.758967986,0.085239300
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",40409754.91483644,0.024746500
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13882371.886531046,0.072033800
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11655283.339937994,0.085798000
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36442617.454556055,0.027440400
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",12999573.613985462,0.076925600
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11732627.498463025,0.085232400
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",39762538.12233342,0.025149300
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",14004111.607167864,0.071407600
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11548864.400163531,0.086588600
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36051365.98625722,0.027738200
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13175803.427553505,0.075896700
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11553774.733743262,0.086551800
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",39548670.57143874,0.025285300
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",14152719.16193258,0.070657800
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11829559.703787826,0.084534000
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",35722706.06642994,0.027993400
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13254987.520429248,0.075443300
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11711933.288827987,0.085383000
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",40051265.61999359,0.024968000
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",14403348.490457062,0.069428300
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11508645.294345113,0.086891200
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",36356365.090618245,0.027505500
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13055750.666496072,0.076594600
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11735477.639807679,0.085211700
+"old","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",39956048.3468185,0.025027500
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",14335848.796935568,0.069755200
+"old","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11328633.460931508,0.088271900
+"new","perf_hooks\bench-eventlooputil.js","method='idleTime' n=1000000",35467155.6405191,0.028195100
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_simple' n=1000000",13188453.77249126,0.075823900
+"new","perf_hooks\bench-eventlooputil.js","method='ELU_passed' n=1000000",11729228.416167099,0.085257100
+"old","perf_hooks\histogram-clone.js","n=100000",116454.45559405281,0.858704800
+"new","perf_hooks\histogram-clone.js","n=100000",133728.70671235197,0.747782600
+"old","perf_hooks\histogram-clone.js","n=100000",117201.52755782958,0.853231200
+"new","perf_hooks\histogram-clone.js","n=100000",133874.81232424747,0.746966500
+"old","perf_hooks\histogram-clone.js","n=100000",117126.68562869623,0.853776400
+"new","perf_hooks\histogram-clone.js","n=100000",134997.1461603302,0.740756400
+"old","perf_hooks\histogram-clone.js","n=100000",115989.675527002,0.862145700
+"new","perf_hooks\histogram-clone.js","n=100000",133106.55525825467,0.751277800
+"old","perf_hooks\histogram-clone.js","n=100000",118200.09621487833,0.846023000
+"new","perf_hooks\histogram-clone.js","n=100000",133001.76879052314,0.751869700
+"old","perf_hooks\histogram-clone.js","n=100000",117705.96719817189,0.849574600
+"new","perf_hooks\histogram-clone.js","n=100000",133401.5815824709,0.749616300
+"old","perf_hooks\histogram-clone.js","n=100000",117364.59675813164,0.852045700
+"new","perf_hooks\histogram-clone.js","n=100000",133550.52209573356,0.748780300
+"old","perf_hooks\histogram-clone.js","n=100000",117088.83436191971,0.854052400
+"new","perf_hooks\histogram-clone.js","n=100000",133391.65216365928,0.749672100
+"old","perf_hooks\histogram-clone.js","n=100000",117122.21351613768,0.853809000
+"new","perf_hooks\histogram-clone.js","n=100000",135022.026818345,0.740619900
+"old","perf_hooks\histogram-clone.js","n=100000",114633.88687744629,0.872342400
+"new","perf_hooks\histogram-clone.js","n=100000",134156.10377403925,0.745400300
+"old","perf_hooks\histogram-create.js","n=100000",8760.507506011592,11.414863800
+"new","perf_hooks\histogram-create.js","n=100000",8913.877140869272,11.218462900
+"old","perf_hooks\histogram-create.js","n=100000",8945.95189548752,11.178240300
+"new","perf_hooks\histogram-create.js","n=100000",8333.890870632578,11.999197200
+"old","perf_hooks\histogram-create.js","n=100000",8884.282881785954,11.255832500
+"new","perf_hooks\histogram-create.js","n=100000",9178.48266280999,10.895047000
+"old","perf_hooks\histogram-create.js","n=100000",9106.51724753877,10.981146500
+"new","perf_hooks\histogram-create.js","n=100000",9214.058755564889,10.852980500
+"old","perf_hooks\histogram-create.js","n=100000",9241.08162387724,10.821244100
+"new","perf_hooks\histogram-create.js","n=100000",9070.239417041927,11.025067300
+"old","perf_hooks\histogram-create.js","n=100000",8979.38077364082,11.136625400
+"new","perf_hooks\histogram-create.js","n=100000",8812.419490837085,11.347621400
+"old","perf_hooks\histogram-create.js","n=100000",9103.422489947001,10.984879600
+"new","perf_hooks\histogram-create.js","n=100000",9087.310103048734,11.004356500
+"old","perf_hooks\histogram-create.js","n=100000",9168.728507411593,10.906637700
+"new","perf_hooks\histogram-create.js","n=100000",8859.877083558467,11.286838300
+"old","perf_hooks\histogram-create.js","n=100000",9039.297332752842,11.062806800
+"new","perf_hooks\histogram-create.js","n=100000",9054.844960499779,11.043811400
+"old","perf_hooks\histogram-create.js","n=100000",9028.376177296868,11.076188900
+"new","perf_hooks\histogram-create.js","n=100000",9130.569379110782,10.952219500
+"old","perf_hooks\histogram-record.js","n=100000",19706.006095067685,5.074595000
+"new","perf_hooks\histogram-record.js","n=100000",17538.164668599104,5.701850900
+"old","perf_hooks\histogram-record.js","n=100000",19758.256936057063,5.061175200
+"new","perf_hooks\histogram-record.js","n=100000",17461.909071753376,5.726750700
+"old","perf_hooks\histogram-record.js","n=100000",19723.389326392014,5.070122500
+"new","perf_hooks\histogram-record.js","n=100000",17564.007722964452,5.693461400
+"old","perf_hooks\histogram-record.js","n=100000",19738.359751384305,5.066277100
+"new","perf_hooks\histogram-record.js","n=100000",17560.16595761643,5.694707000
+"old","perf_hooks\histogram-record.js","n=100000",19696.81791209712,5.076962200
+"new","perf_hooks\histogram-record.js","n=100000",17517.88124589764,5.708452900
+"old","perf_hooks\histogram-record.js","n=100000",19684.63792746274,5.080103600
+"new","perf_hooks\histogram-record.js","n=100000",17489.26736129839,5.717792400
+"old","perf_hooks\histogram-record.js","n=100000",19702.861539184785,5.075404900
+"new","perf_hooks\histogram-record.js","n=100000",17490.932088622634,5.717248200
+"old","perf_hooks\histogram-record.js","n=100000",19692.09945290031,5.078178700
+"new","perf_hooks\histogram-record.js","n=100000",17504.239876983003,5.712901600
+"old","perf_hooks\histogram-record.js","n=100000",19698.465347720463,5.076537600
+"new","perf_hooks\histogram-record.js","n=100000",17488.35865545651,5.718089500
+"old","perf_hooks\histogram-record.js","n=100000",19716.651605445117,5.071855100
+"new","perf_hooks\histogram-record.js","n=100000",17512.3395885017,5.710259300
+"old","perf_hooks\now.js","n=1000000",17500446.261379663,0.057141400
+"new","perf_hooks\now.js","n=1000000",15586253.547820965,0.064159100
+"old","perf_hooks\now.js","n=1000000",17332524.48219083,0.057695000
+"new","perf_hooks\now.js","n=1000000",16720814.236770073,0.059805700
+"old","perf_hooks\now.js","n=1000000",17387826.782469593,0.057511500
+"new","perf_hooks\now.js","n=1000000",16283144.34030469,0.061413200
+"old","perf_hooks\now.js","n=1000000",17240101.164913636,0.058004300
+"new","perf_hooks\now.js","n=1000000",16711537.143898033,0.059838900
+"old","perf_hooks\now.js","n=1000000",16650848.36072398,0.060057000
+"new","perf_hooks\now.js","n=1000000",16071666.776489723,0.062221300
+"old","perf_hooks\now.js","n=1000000",17120531.969169345,0.058409400
+"new","perf_hooks\now.js","n=1000000",16565890.830779424,0.060365000
+"old","perf_hooks\now.js","n=1000000",16554427.647218525,0.060406800
+"new","perf_hooks\now.js","n=1000000",16448315.281307312,0.060796500
+"old","perf_hooks\now.js","n=1000000",17048176.4418069,0.058657300
+"new","perf_hooks\now.js","n=1000000",16268706.97943798,0.061467700
+"old","perf_hooks\now.js","n=1000000",16028877.625930876,0.062387400
+"new","perf_hooks\now.js","n=1000000",16284523.189161021,0.061408000
+"old","perf_hooks\now.js","n=1000000",16986667.16494224,0.058869700
+"new","perf_hooks\now.js","n=1000000",16374437.538070567,0.061070800
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",369147.0580363776,2.708947500
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1910529.8854637335,0.523415000
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",403103.6075434874,2.480751800
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",1996583.8450411346,0.500855500
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",369955.55427962,2.703027400
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1913056.187608064,0.522723800
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",401628.6685114007,2.489862100
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",1972822.0094336404,0.506888100
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",372483.3303466378,2.684683900
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1918220.8731587958,0.521316400
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",402791.34401401714,2.482675000
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",2011727.5670247274,0.497085200
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",369512.75862890814,2.706266500
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1891331.2910738052,0.528728100
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",401544.5652629579,2.490383600
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",2012581.0466387481,0.496874400
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",368854.12037163234,2.711098900
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1905110.267782299,0.524904000
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",405524.5912748059,2.465941700
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",1988985.0010641068,0.502769000
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",369405.2922036496,2.707053800
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1910748.1878464185,0.523355200
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",396084.1850001493,2.524715800
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",1992280.709164272,0.501937300
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",371882.47204856965,2.689021600
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1886547.55760007,0.530068800
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",392414.224921474,2.548327600
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",1970686.4334398685,0.507437400
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",367504.8668669519,2.721052400
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1915123.6355941049,0.522159500
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",405433.3419541976,2.466496700
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",2013447.8179762634,0.496660500
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",370268.011835543,2.700746400
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1905478.3646270046,0.524802600
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",403877.4496883803,2.475998600
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",1998891.41482134,0.500277300
+"old","perf_hooks\performance-observer.js","pending=1 n=1000000",370528.16047367133,2.698850200
+"old","perf_hooks\performance-observer.js","pending=10 n=1000000",1920607.833967294,0.520668500
+"new","perf_hooks\performance-observer.js","pending=1 n=1000000",400203.9279135076,2.498726100
+"new","perf_hooks\performance-observer.js","pending=10 n=1000000",1989406.410862159,0.502662500
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1622496.3664193873,0.616334200
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1765140.002961905,0.566527300
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1656355.5771397091,0.603735100
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1758462.8221393987,0.568678500
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1645062.6077927274,0.607879600
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1782251.3077714534,0.561088100
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1637927.0526256135,0.610527800
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1763093.7923583281,0.567184800
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1615727.099815096,0.618916400
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1714900.8247129556,0.583124100
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1607519.8492532186,0.622076300
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1733905.499029273,0.576732700
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1638316.4201737698,0.610382700
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1728860.1037523525,0.578415800
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1607043.9952399358,0.622260500
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1753258.6503590236,0.570366500
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1583406.4075390412,0.631549800
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1710944.776862004,0.584472400
+"old","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1600038.6569339517,0.624984900
+"new","perf_hooks\resourcetiming.js","observe='resource' n=1000000",1728217.71672023,0.578630800
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44845261.42545148,0.022298900
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15869942.646027276,0.063012200
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44738725.84108804,0.022352000
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",15655454.751821904,0.063875500
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",39305704.04377083,0.025441600
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15715536.22195366,0.063631300
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",43980982.62311377,0.022737100
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",15991326.304612378,0.062533900
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44678959.33767911,0.022381900
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15969797.918177145,0.062618200
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",42859408.28300924,0.023332100
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",15352092.56697734,0.065137700
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",43464276.71097125,0.023007400
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15513785.549839588,0.064458800
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44599850.14450351,0.022421600
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",15685216.52657154,0.063754300
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",42947209.29034031,0.023284400
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",14263483.62766032,0.070109100
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44327223.56435205,0.022559500
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",15972425.205125872,0.062607900
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",45051335.99736901,0.022196900
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15828595.307138061,0.063176800
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",43724448.52539298,0.022870500
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",14948666.279994499,0.066895600
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44100460.849815875,0.022675500
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15981435.963984234,0.062572600
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",45396561.66441954,0.022028100
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",15721984.99493752,0.063605200
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",43320423.847026914,0.023083800
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15920803.554797016,0.062810900
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44351995.174502924,0.022546900
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",15340552.597385664,0.065186700
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",43777662.010182686,0.022842700
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",16067767.415853104,0.062236400
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",42205846.35383693,0.023693400
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",14709862.668722125,0.067981600
+"old","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",43791848.585304335,0.022835300
+"old","perf_hooks\time-origin.js","method='toJSON' n=1000000",15662124.128598569,0.063848300
+"new","perf_hooks\time-origin.js","method='timeOrigin' n=1000000",44990327.07967787,0.022227000
+"new","perf_hooks\time-origin.js","method='toJSON' n=1000000",14085657.701615063,0.070994200
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2004200.001523192,0.498952200
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2224915.358657468,0.449455300
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2105101.840616845,0.475036400
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2175770.015887473,0.459607400
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2101718.112522625,0.475801200
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2267147.513539972,0.441082900
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2053627.6099553294,0.486943200
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2212529.866387534,0.451971300
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2113012.7991524283,0.473257900
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2220176.699423154,0.450414600
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2105209.087261338,0.475012200
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2225428.817878917,0.449351600
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2083503.920216801,0.479960700
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2222949.3736617845,0.449852800
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2019037.9122824941,0.495285400
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2219982.506537848,0.450454000
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2008277.719102597,0.497939100
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2194606.753902285,0.455662500
+"old","perf_hooks\timerfied.js","observe='function' n=1000000",2130063.827362587,0.469469500
+"new","perf_hooks\timerfied.js","observe='function' n=1000000",2234016.339148701,0.447624300
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5883990.074885542,0.169952700
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",7994781.006958658,0.125081600
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5617182.286552691,0.178025200
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8248307.03498107,0.121237000
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5686768.255094776,0.175846800
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",7922950.88721204,0.126215600
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5830740.597347712,0.171504800
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8004790.066375719,0.124925200
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5817562.406446325,0.171893300
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",7795787.779946739,0.128274400
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5826898.010056061,0.171617900
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8264783.83871109,0.120995300
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5661683.818737796,0.176625900
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",7786700.471328978,0.128424100
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5619963.4589975905,0.177937100
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8337696.727954296,0.119937200
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5963740.458015268,0.167680000
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",7893158.210463171,0.126692000
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5511424.355976285,0.181441300
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8651559.313792922,0.115586100
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5879160.902639331,0.170092300
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",7999776.006271825,0.125003500
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5600480.745267174,0.178556100
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8163165.348995727,0.122501500
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5728013.307320516,0.174580600
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",7468488.579560688,0.133895900
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5562118.855805406,0.179787600
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8018956.813908079,0.124704500
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5678407.910703628,0.176105700
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",8282616.113995302,0.120734800
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5742664.32059687,0.174135200
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8033748.169309636,0.124474900
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5599420.795912871,0.178589900
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",8195465.121329764,0.122018700
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5690739.061972718,0.175724100
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8404689.144167313,0.118981200
+"old","perf_hooks\usertiming.js","observe='all' n=1000000",5597756.419227174,0.178643000
+"old","perf_hooks\usertiming.js","observe='measure' n=1000000",8121233.777835529,0.123134000
+"new","perf_hooks\usertiming.js","observe='all' n=1000000",5688997.308535374,0.175777900
+"new","perf_hooks\usertiming.js","observe='measure' n=1000000",8203748.292594886,0.121895500

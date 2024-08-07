@@ -1,0 +1,101 @@
+"binary","filename","configuration","rate","time"
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",278351.80104749347,0.359257600
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",282351.87820469384,0.354168000
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",286206.72482768924,0.349397800
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",298030.6137046397,0.335536000
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",283573.54848625604,0.352642200
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",283692.36966817925,0.352494500
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",302124.2050734509,0.330989700
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",294948.360441054,0.339042400
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",280071.09324630967,0.357052200
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",268567.76837641385,0.372345500
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",299605.7188739618,0.333772000
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",296083.8177758065,0.337742200
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",279524.96409501834,0.357749800
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",285100.01736259105,0.350754100
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",298897.8143097329,0.334562500
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",282633.0205245273,0.353815700
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",280478.8671795129,0.356533100
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",278645.29345807724,0.358879200
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",292907.85148283135,0.341404300
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",299056.38738089707,0.334385100
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",278496.9962706467,0.359070300
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",279312.6785331727,0.358021700
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",292193.63789260597,0.342238800
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",297288.4027496799,0.336373700
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",269696.691010389,0.370786900
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",278272.63928797824,0.359359800
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",284794.3998029223,0.351130500
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",295543.1210713083,0.338360100
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",281313.1811822862,0.355475700
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",278955.8237188884,0.358479700
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",300557.1728870981,0.332715400
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",298393.6277444008,0.335127800
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",280065.9947510031,0.357058700
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",281446.19438306574,0.355307700
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",292096.51102401444,0.342352600
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",298163.3732534335,0.335386600
+"old","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",266451.941928398,0.375302200
+"old","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",282004.95369901665,0.354603700
+"new","permission\permission-processhas-fs-read.js","concurrent=1 n=100000",276756.2397461813,0.361328800
+"new","permission\permission-processhas-fs-read.js","concurrent=10 n=100000",295479.3724372705,0.338433100
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.095431866237302,1.492876600
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.823347542268333,1.513367000
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.277645410376802,1.843018400
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.594688094478542,1.456686300
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.30337712162677,1.477586700
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.51731344795615,1.816276000
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.007863090194448,1.499410500
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.76522210344788,1.517817500
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.228496363275106,1.848600100
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.621647822261192,1.454781900
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.37800381965304,1.472175600
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.607114476770438,1.806454700
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.089882132661526,1.493289000
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.829625182407764,1.512887900
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.23881274359234,1.847425700
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.593945874167698,1.456738800
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.284980993310892,1.478926700
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.71342991504508,1.794963700
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.01878696427307,1.498592300
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.823740515166154,1.513337000
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.3140156536243,1.838909600
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.542736355480272,1.460370200
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.305516805860986,1.477431000
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.755949814366417,1.790408800
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",19.967922198585377,1.502409700
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.70594007975388,1.522383600
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.24856667331233,1.846316700
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.46176334156419,1.466149300
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.344318089652255,1.474613200
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.698233749891184,1.796597200
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.16851330694978,1.487467100
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.79103307873269,1.515838000
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.219989774918446,1.849569600
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.50670565857251,1.462936100
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.365871524207623,1.473052600
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.748518537706946,1.791203200
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.032061982939094,1.497599200
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.71431979189564,1.521736500
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.245343678368187,1.846683000
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.55744950576465,1.459325000
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.41371940757481,1.469599900
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.626700696719723,1.804326700
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.06645877369456,1.495032100
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.73051925267896,1.520487100
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.251085775668386,1.846030500
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.61356977555945,1.455352000
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.373165769930456,1.472525200
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.712921534003303,1.795018300
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.080161342757712,1.494011900
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.763827531354323,1.517924600
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.277322163473144,1.843055000
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.635266302926535,1.453821800
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.288642458529,1.478659800
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.704643746187863,1.795907800
+"old","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",19.9779204023713,1.501657800
+"old","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",19.734030005987307,1.520216600
+"old","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.25827681775664,1.845214000
+"new","permission\permission-startup.js","count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'",20.534278658512005,1.460971700
+"new","permission\permission-startup.js","count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'",20.2417594785075,1.482084600
+"new","permission\permission-startup.js","count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'",16.69743911932808,1.796682700

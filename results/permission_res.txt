@@ -1,0 +1,5 @@
+permission\\permission-processhas-fs-read.js concurrent=10 n=100000                                              ***      5.62 %       ±1.57% ±2.15% ±2.93%
+permission\\permission-processhas-fs-read.js concurrent=1 n=100000                                               ***      5.33 %       ±2.36% ±3.26% ±4.48%
+permission\\permission-startup.js count=30 nFiles=100 prefixPath='/tmp' script='test/fixtures/semicolon'         ***      2.84 %       ±0.24% ±0.33% ±0.45%
+permission\\permission-startup.js count=30 nFiles=1000 prefixPath='/tmp' script='test/fixtures/semicolon'        ***      2.60 %       ±0.33% ±0.47% ±0.67%
+permission\\permission-startup.js count=30 nFiles=10 prefixPath='/tmp' script='test/fixtures/semicolon'          ***      2.57 %       ±0.27% ±0.38% ±0.51%

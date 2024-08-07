@@ -1,0 +1,40 @@
+                                                                                                                             confidence improvement accuracy (*)    (**)   (***)
+process\\bench-env.js operation='delete' n=1000000                                                                                           1.36 %       ±1.80%  ±2.48%  ±3.43%
+process\\bench-env.js operation='enumerate' n=1000000                                                                               ***      8.76 %       ±4.66%  ±6.39%  ±8.71%
+process\\bench-env.js operation='get' n=1000000                                                                                     ***     18.52 %       ±0.49%  ±0.68%  ±0.93%
+process\\bench-env.js operation='query' n=1000000                                                                                   ***     29.24 %       ±0.59%  ±0.81%  ±1.12%
+process\\bench-env.js operation='set' n=1000000                                                                                     ***      2.41 %       ±1.04%  ±1.43%  ±1.97%
+process\\bench-hrtime.js type='bigint' n=1000000                                                                                    ***     -3.00 %       ±1.09%  ±1.50%  ±2.04%
+process\\bench-hrtime.js type='diff' n=1000000                                                                                               1.15 %       ±1.35%  ±1.85%  ±2.52%
+process\\bench-hrtime.js type='raw' n=1000000                                                                                                1.22 %       ±1.55%  ±2.13%  ±2.94%
+process\\coverage.js n=100000                                                                                                        **     -3.48 %       ±2.16%  ±2.97%  ±4.05%
+process\\getActiveResourcesInfo.js n=100000 immediatesCount=10000 timeoutsCount=10000 requestsCount=10000 handlesCount=10000        ***      9.33 %       ±3.94%  ±5.42%  ±7.43%
+process\\memoryUsage.js n=100000                                                                                                    ***     -5.75 %       ±2.50%  ±3.44%  ±4.71%
+process\\next-tick-breadth-args.js n=10000000                                                                                        **      5.93 %       ±3.33%  ±4.66%  ±6.55%
+process\\next-tick-breadth.js n=10000000                                                                                            ***      4.15 %       ±1.66%  ±2.28%  ±3.10%
+process\\next-tick-depth-args.js n=7000000                                                                                                  -0.38 %       ±5.21%  ±7.17%  ±9.84%
+process\\next-tick-depth.js n=7000000                                                                                                 *     -6.93 %       ±5.55%  ±7.90% ±11.47%
+process\\next-tick-exec-args.js n=4000000                                                                                                   -0.20 %       ±7.46% ±10.23% ±13.95%
+process\\next-tick-exec.js n=4000000                                                                                                        -1.76 %       ±6.84%  ±9.39% ±12.82%
+process\\next-tick-loop-args.js loop=100 n=10000                                                                                             2.09 %       ±3.13%  ±4.29%  ±5.87%
+process\\next-tick-loop-args.js loop=100 n=20000                                                                                             0.80 %       ±3.47%  ±4.88%  ±6.94%
+process\\next-tick-loop-args.js loop=100 n=40000                                                                                            -0.10 %       ±3.49%  ±4.85%  ±6.74%
+process\\next-tick-loop-args.js loop=200 n=10000                                                                                            -0.92 %       ±2.72%  ±3.74%  ±5.11%
+process\\next-tick-loop-args.js loop=200 n=20000                                                                                            -0.83 %       ±2.59%  ±3.58%  ±4.93%
+process\\next-tick-loop-args.js loop=200 n=40000                                                                                             0.14 %       ±2.36%  ±3.30%  ±4.64%
+process\\next-tick-loop.js loop=100 n=10000                                                                                                  0.21 %       ±4.13%  ±5.67%  ±7.73%
+process\\next-tick-loop.js loop=100 n=20000                                                                                                  1.75 %       ±3.41%  ±4.67%  ±6.37%
+process\\next-tick-loop.js loop=100 n=40000                                                                                                  1.12 %       ±1.89%  ±2.61%  ±3.58%
+process\\next-tick-loop.js loop=200 n=10000                                                                                                  0.83 %       ±3.52%  ±4.82%  ±6.58%
+process\\next-tick-loop.js loop=200 n=20000                                                                                                  1.29 %       ±3.35%  ±4.67%  ±6.52%
+process\\next-tick-loop.js loop=200 n=40000                                                                                                  0.27 %       ±1.99%  ±2.75%  ±3.79%
+process\\queue-microtask-breadth.js n=400000                                                                                        ***      4.47 %       ±2.14%  ±2.94%  ±4.01%
+process\\queue-microtask-depth.js n=1200000                                                                                           *     -4.82 %       ±3.57%  ±4.92%  ±6.78%
+process\\resourceUsage.js n=100000                                                                                                           0.43 %       ±0.85%  ±1.17%  ±1.60%
+
+Be aware that when doing many comparisons the risk of a false-positive
+result increases. In this case, there are 32 comparisons, you can thus
+expect the following amount of false-positive results:
+  1.60 false positives, when considering a   5% risk acceptance (*, **, ***),
+  0.32 false positives, when considering a   1% risk acceptance (**, ***),
+  0.03 false positives, when considering a 0.1% risk acceptance (***)

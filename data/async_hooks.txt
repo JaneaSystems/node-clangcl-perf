@@ -1,0 +1,48 @@
+                                                                                                                                                                          confidence improvement accuracy (*)    (**)   (***)
+async_hooks\\async-local-storage-getstore-nested-resources.js n=500000 resourceCount=10                                                                                           **      4.25 %       ±2.95%  ±4.04%  ±5.51%
+async_hooks\\async-local-storage-getstore-nested-resources.js n=500000 resourceCount=100                                                                                                  4.27 %       ±5.38%  ±7.39% ±10.11%
+async_hooks\\async-local-storage-getstore-nested-resources.js n=500000 resourceCount=1000                                                                                          *      6.12 %       ±5.83%  ±8.02% ±11.00%
+async_hooks\\async-local-storage-getstore-nested-run.js n=10000 sotrageCount=1                                                                                                           -1.84 %       ±7.14%  ±9.80% ±13.37%
+async_hooks\\async-local-storage-getstore-nested-run.js n=10000 sotrageCount=10                                                                                                           2.37 %       ±6.35%  ±8.70% ±11.86%
+async_hooks\\async-local-storage-getstore-nested-run.js n=10000 sotrageCount=100                                                                                                          1.89 %       ±8.13% ±11.16% ±15.26%
+async_hooks\\async-local-storage-propagate-asyncresource.js n=1000 storageCount=0                                                                                                         1.64 %       ±5.67%  ±7.77% ±10.59%
+async_hooks\\async-local-storage-propagate-asyncresource.js n=1000 storageCount=1                                                                                                        -2.51 %       ±5.93%  ±8.14% ±11.14%
+async_hooks\\async-local-storage-propagate-asyncresource.js n=1000 storageCount=10                                                                                                        2.96 %       ±5.23%  ±7.21%  ±9.93%
+async_hooks\\async-local-storage-propagate-asyncresource.js n=1000 storageCount=100                                                                                                       0.85 %       ±2.89%  ±3.96%  ±5.39%
+async_hooks\\async-local-storage-propagate-promise.js n=100000 storageCount=0                                                                                                      *      2.49 %       ±2.31%  ±3.17%  ±4.33%
+async_hooks\\async-local-storage-propagate-promise.js n=100000 storageCount=1                                                                                                             1.72 %       ±3.11%  ±4.26%  ±5.81%
+async_hooks\\async-local-storage-propagate-promise.js n=100000 storageCount=10                                                                                                           -0.13 %       ±1.97%  ±2.79%  ±3.99%
+async_hooks\\async-local-storage-propagate-promise.js n=100000 storageCount=100                                                                                                  ***      3.76 %       ±1.88%  ±2.58%  ±3.54%
+async_hooks\\async-local-storage-run.js n=10000000                                                                                                                                 *      2.96 %       ±2.15%  ±3.02%  ±4.25%
+async_hooks\\async-resource-vs-destroy.js n=1000000 duration=5 connections=500 path='/' asyncMethod='async' type='async-local-storage' benchmarker='test-double-http'                     0.16 %       ±0.25%  ±0.35%  ±0.47%
+async_hooks\\async-resource-vs-destroy.js n=1000000 duration=5 connections=500 path='/' asyncMethod='async' type='async-resource' benchmarker='test-double-http'                         -0.06 %       ±0.27%  ±0.37%  ±0.50%
+async_hooks\\async-resource-vs-destroy.js n=1000000 duration=5 connections=500 path='/' asyncMethod='async' type='destroy' benchmarker='test-double-http'                                 0.16 %       ±0.20%  ±0.28%  ±0.38%
+async_hooks\\async-resource-vs-destroy.js n=1000000 duration=5 connections=500 path='/' asyncMethod='callbacks' type='async-local-storage' benchmarker='test-double-http'                 0.19 %       ±0.26%  ±0.36%  ±0.49%
+async_hooks\\async-resource-vs-destroy.js n=1000000 duration=5 connections=500 path='/' asyncMethod='callbacks' type='async-resource' benchmarker='test-double-http'                     -0.09 %       ±0.25%  ±0.34%  ±0.46%
+async_hooks\\async-resource-vs-destroy.js n=1000000 duration=5 connections=500 path='/' asyncMethod='callbacks' type='destroy' benchmarker='test-double-http'                             0.03 %       ±0.21%  ±0.29%  ±0.40%
+async_hooks\\gc-tracking.js method='trackingDisabled' n=1000000                                                                                                                    *      2.28 %       ±1.73%  ±2.38%  ±3.26%
+async_hooks\\gc-tracking.js method='trackingEnabled' n=1000000                                                                                                                   ***      2.28 %       ±0.87%  ±1.20%  ±1.66%
+async_hooks\\gc-tracking.js method='trackingEnabledWithDestroyHook' n=1000000                                                                                                      *      2.92 %       ±2.20%  ±3.02%  ±4.11%
+async_hooks\\http-server.js duration=5 connections=50 asyncHooks='after' benchmarker='test-double-http'                                                                           **      5.05 %       ±3.44%  ±4.72%  ±6.44%
+async_hooks\\http-server.js duration=5 connections=50 asyncHooks='all' benchmarker='test-double-http'                                                                             **      4.85 %       ±3.25%  ±4.47%  ±6.12%
+async_hooks\\http-server.js duration=5 connections=50 asyncHooks='before' benchmarker='test-double-http'                                                                         ***      6.84 %       ±3.13%  ±4.29%  ±5.85%
+async_hooks\\http-server.js duration=5 connections=50 asyncHooks='disabled' benchmarker='test-double-http'                                                                        **      5.51 %       ±3.40%  ±4.66%  ±6.36%
+async_hooks\\http-server.js duration=5 connections=50 asyncHooks='init' benchmarker='test-double-http'                                                                           ***      6.79 %       ±3.24%  ±4.45%  ±6.11%
+async_hooks\\http-server.js duration=5 connections=50 asyncHooks='none' benchmarker='test-double-http'                                                                           ***      6.41 %       ±3.22%  ±4.41%  ±6.01%
+async_hooks\\http-server.js duration=5 connections=500 asyncHooks='after' benchmarker='test-double-http'                                                                         ***      5.87 %       ±3.14%  ±4.30%  ±5.86%
+async_hooks\\http-server.js duration=5 connections=500 asyncHooks='all' benchmarker='test-double-http'                                                                            **      5.48 %       ±3.17%  ±4.35%  ±5.93%
+async_hooks\\http-server.js duration=5 connections=500 asyncHooks='before' benchmarker='test-double-http'                                                                        ***      6.19 %       ±3.29%  ±4.51%  ±6.14%
+async_hooks\\http-server.js duration=5 connections=500 asyncHooks='disabled' benchmarker='test-double-http'                                                                       **      6.40 %       ±3.48%  ±4.78%  ±6.51%
+async_hooks\\http-server.js duration=5 connections=500 asyncHooks='init' benchmarker='test-double-http'                                                                           **      5.41 %       ±3.20%  ±4.39%  ±6.00%
+async_hooks\\http-server.js duration=5 connections=500 asyncHooks='none' benchmarker='test-double-http'                                                                           **      5.18 %       ±3.26%  ±4.46%  ±6.08%
+async_hooks\\promises.js asyncHooks='disabled' n=1000000                                                                                                                          **     -0.98 %       ±0.69%  ±0.97%  ±1.38%
+async_hooks\\promises.js asyncHooks='enabled' n=1000000                                                                                                                                  -1.61 %       ±2.31%  ±3.28%  ±4.74%
+async_hooks\\promises.js asyncHooks='enabledWithDestroy' n=1000000                                                                                                               ***      2.77 %       ±0.59%  ±0.82%  ±1.13%
+async_hooks\\promises.js asyncHooks='enabledWithInitOnly' n=1000000                                                                                                              ***     -1.56 %       ±0.61%  ±0.84%  ±1.14%
+
+Be aware that when doing many comparisons the risk of a false-positive
+result increases. In this case, there are 40 comparisons, you can thus
+expect the following amount of false-positive results:
+  2.00 false positives, when considering a   5% risk acceptance (*, **, ***),
+  0.40 false positives, when considering a   1% risk acceptance (**, ***),
+  0.04 false positives, when considering a 0.1% risk acceptance (***)

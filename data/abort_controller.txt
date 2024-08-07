@@ -1,0 +1,10 @@
+                                                                               confidence improvement accuracy (*)    (**)   (***)
+abort_controller\\abort-signal-static-abort.js kind='default-reason' n=5000000                -4.39 %      ±14.94% ±20.49% ±27.96%
+abort_controller\\abort-signal-static-abort.js kind='same-reason' n=5000000                    4.36 %       ±4.50%  ±6.17%  ±8.42%
+
+Be aware that when doing many comparisons the risk of a false-positive
+result increases. In this case, there are 2 comparisons, you can thus
+expect the following amount of false-positive results:
+  0.10 false positives, when considering a   5% risk acceptance (*, **, ***),
+  0.02 false positives, when considering a   1% risk acceptance (**, ***),
+  0.00 false positives, when considering a 0.1% risk acceptance (***)

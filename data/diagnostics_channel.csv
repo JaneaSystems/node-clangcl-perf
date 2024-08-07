@@ -1,0 +1,201 @@
+"binary","filename","configuration","rate","time"
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42375,5.054093100
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39553,5.056014700
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41370,5.054087100
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",38946,5.054706700
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41693,5.054738300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38928,5.055250200
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",44825,5.053095900
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41662,5.053449800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43518,5.052897900
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41097,5.053182300
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43459,5.052497600
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40545,5.053061600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42259,5.054860200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39912,5.054711400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41429,5.053954800
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",39062,5.054044200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41189,5.054158200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",39304,5.054044500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",43925,5.052198100
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",40624,5.052381600
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41055,5.053083800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",44271,5.053058700
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40933,5.052821400
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43392,5.052983700
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39705,5.054611700
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42085,5.054854200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",38808,5.054398300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41555,5.054443300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38933,5.054645000
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41492,5.054126300
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41510,5.053329600
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",44566,5.053601200
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41153,5.053208300
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43685,5.053256700
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40769,5.053103900
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43296,5.052641400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39770,5.054656300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42773,5.054222900
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",39216,5.054229100
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41713,5.054078300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38930,5.054126600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41429,5.054715800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41797,5.051992600
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",44489,5.053116200
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41213,5.053470200
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",44272,5.054532500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41096,5.053393700
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43320,5.053639200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39594,5.054564400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42139,5.053794600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",38796,5.053832400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41526,5.054045600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38911,5.054433000
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41087,5.053850000
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",43403,5.052520800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41726,5.053335400
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43823,5.052648700
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41305,5.052650800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43757,5.053391500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40927,5.053270700
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42217,5.053813300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39738,5.054779100
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41616,5.054908700
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",39028,5.054782300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41460,5.054433200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38449,5.054776000
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",44676,5.052670500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41409,5.052533200
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43041,5.052247900
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",40730,5.053277800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",42767,5.052475800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40793,5.053919100
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42208,5.053775400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39404,5.055074800
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41220,5.053505200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",38804,5.055050200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41221,5.053541600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38345,5.053979700
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",44711,5.054587800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41133,5.052994500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43750,5.052275400
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",40536,5.053222100
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43459,5.052927200
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40616,5.052816200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",42142,5.054379500
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39514,5.054550000
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41125,5.054409600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",38543,5.053985300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41583,5.053990700
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",37921,5.054194500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",40970,5.053576300
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",44180,5.052918800
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",40834,5.053181700
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43616,5.053060600
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40943,5.053641500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43581,5.052411400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39391,5.055016600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41701,5.053738400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",38908,5.054825100
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",40958,5.053973400
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38491,5.054084000
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",41050,5.054252000
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41528,5.053010500
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41472,5.053433300
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43097,5.051834300
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",40384,5.053221200
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43479,5.052754000
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40166,5.051967800
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41905,5.054531200
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",39535,5.054587600
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",40994,5.054300300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",38542,5.054681300
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40749,5.054826000
+"old","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",38501,5.053719700
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",41504,5.054457100
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='none' benchmarker='test-double-http'",44235,5.052704100
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",41038,5.054119300
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='diagnostics_channel' benchmarker='test-double-http'",43350,5.052856400
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=50 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",40271,5.053837400
+"new","diagnostics_channel\http.js","duration=5 chunkedEnc=1 connections=500 chunks=4 len=1024 type='buffer' apm='patch' benchmarker='test-double-http'",43087,5.052127400
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",1988292931.2209709,0.050294400
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",134516938.91101542,0.743400800
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26306609.159366783,3.801326100
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",1977327957.6377258,0.050573300
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",134592943.83032674,0.742981000
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26377289.51246091,3.791140100
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",1976226001.2054977,0.050601500
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",134325316.84319922,0.744461300
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26364730.04454242,3.792946100
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",1996597797.3533099,0.050085200
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",132370295.31151032,0.755456500
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26294730.16269023,3.803043400
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",1991813645.9152882,0.050205500
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",135144175.18469143,0.739950500
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26263449.87380281,3.807572900
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",1968600816.969339,0.050797500
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",135182394.1694211,0.739741300
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26264283.140948772,3.807452100
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",2002270574.831859,0.049943300
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",134881721.54396948,0.741390300
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26394056.185238555,3.788731800
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",1999500124.9687579,0.050012500
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",135301867.2604795,0.739088100
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26390527.447415292,3.789238400
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",1994284380.9641566,0.050143300
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",134849436.55859923,0.741567800
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26405947.020639442,3.787025700
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",1992309684.6173768,0.050193000
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",135237166.09436554,0.739441700
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26345986.13368596,3.795644600
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",1992361286.826308,0.050191700
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",135359429.36796078,0.738773800
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26385383.00441491,3.789977200
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",1996318788.1546428,0.050092200
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",133439978.56420185,0.749400600
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26383105.272494737,3.790304400
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",1999348212.4827306,0.050016300
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",135379036.9351919,0.738666800
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26349045.43600411,3.795203900
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",2003522192.0135598,0.049912100
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",134746301.01191777,0.742135400
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26315659.97293645,3.800018700
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",1991563736.0142436,0.050211800
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",134688805.55542836,0.742452200
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26366835.66753656,3.792643200
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",2003859433.268475,0.049903700
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",133520867.8429143,0.748946600
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26380821.67026215,3.790632500
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",2000004000.0080001,0.049999900
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",134481952.65643546,0.743594200
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26319478.35636121,3.799467400
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",2002679585.2851114,0.049933100
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",135171430.49086288,0.739801300
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26304632.156286974,3.801611800
+"old","diagnostics_channel\publish.js","subscribers=0 n=100000000",2003827310.1624103,0.049904500
+"old","diagnostics_channel\publish.js","subscribers=1 n=100000000",134844526.95730877,0.741594800
+"old","diagnostics_channel\publish.js","subscribers=10 n=100000000",26360014.641406532,3.793624600
+"new","diagnostics_channel\publish.js","subscribers=0 n=100000000",2006400417.3312867,0.049840500
+"new","diagnostics_channel\publish.js","subscribers=1 n=100000000",135634103.67626742,0.737277700
+"new","diagnostics_channel\publish.js","subscribers=10 n=100000000",26266245.114445575,3.807167700
+"old","diagnostics_channel\subscribe.js","n=100000000",24132323.51464704,4.143819800
+"new","diagnostics_channel\subscribe.js","n=100000000",27258646.694874097,3.668560700
+"old","diagnostics_channel\subscribe.js","n=100000000",24120849.896216426,4.145790900
+"new","diagnostics_channel\subscribe.js","n=100000000",27357572.306542363,3.655295100
+"old","diagnostics_channel\subscribe.js","n=100000000",24208389.88715816,4.130799300
+"new","diagnostics_channel\subscribe.js","n=100000000",27382215.059643257,3.652005500
+"old","diagnostics_channel\subscribe.js","n=100000000",24272212.278166544,4.119937600
+"new","diagnostics_channel\subscribe.js","n=100000000",27149519.790153757,3.683306400
+"old","diagnostics_channel\subscribe.js","n=100000000",24295411.799333993,4.116003500
+"new","diagnostics_channel\subscribe.js","n=100000000",27238728.634520084,3.671243300
+"old","diagnostics_channel\subscribe.js","n=100000000",24078904.2576776,4.153012900
+"new","diagnostics_channel\subscribe.js","n=100000000",27437260.79338626,3.644678700
+"old","diagnostics_channel\subscribe.js","n=100000000",24317258.911886316,4.112305600
+"new","diagnostics_channel\subscribe.js","n=100000000",27271635.167700786,3.666813500
+"old","diagnostics_channel\subscribe.js","n=100000000",24205542.037970603,4.131285300
+"new","diagnostics_channel\subscribe.js","n=100000000",27128550.126846317,3.686153500
+"old","diagnostics_channel\subscribe.js","n=100000000",24135271.244366556,4.143313700
+"new","diagnostics_channel\subscribe.js","n=100000000",27330203.186942197,3.658955600
+"old","diagnostics_channel\subscribe.js","n=100000000",24182668.136650454,4.135193000
+"new","diagnostics_channel\subscribe.js","n=100000000",27375943.78908412,3.652842100

@@ -1,0 +1,441 @@
+"binary","filename","configuration","rate","time"
+"old","timers\immediate.js","type='depth' n=5000000",775213.7376680742,6.449834100
+"old","timers\immediate.js","type='depth1' n=5000000",772586.5404701148,6.471766900
+"old","timers\immediate.js","type='breadth' n=5000000",3606135.565598563,1.386525800
+"old","timers\immediate.js","type='breadth1' n=5000000",1865830.724746494,2.679771500
+"old","timers\immediate.js","type='breadth4' n=5000000",1179796.3926262348,2.119009700
+"old","timers\immediate.js","type='clear' n=5000000",20957785.46625781,0.954299300
+"new","timers\immediate.js","type='depth' n=5000000",798773.5184085185,6.259596600
+"new","timers\immediate.js","type='depth1' n=5000000",799260.230307155,6.255784800
+"new","timers\immediate.js","type='breadth' n=5000000",3570829.1822444093,1.400235000
+"new","timers\immediate.js","type='breadth1' n=5000000",1921340.4746740812,2.602349800
+"new","timers\immediate.js","type='breadth4' n=5000000",1237018.1746173867,2.020988900
+"new","timers\immediate.js","type='clear' n=5000000",21150735.3687673,0.945593600
+"old","timers\immediate.js","type='depth' n=5000000",770217.299095942,6.491674500
+"old","timers\immediate.js","type='depth1' n=5000000",772828.4043496947,6.469741500
+"old","timers\immediate.js","type='breadth' n=5000000",3477595.3485353864,1.437775100
+"old","timers\immediate.js","type='breadth1' n=5000000",1877212.7175605067,2.663523400
+"old","timers\immediate.js","type='breadth4' n=5000000",1176987.4657426027,2.124066800
+"old","timers\immediate.js","type='clear' n=5000000",21361101.626188625,0.936281300
+"new","timers\immediate.js","type='depth' n=5000000",795886.5780127546,6.282302200
+"new","timers\immediate.js","type='depth1' n=5000000",794258.0859047307,6.295183000
+"new","timers\immediate.js","type='breadth' n=5000000",3796116.360380814,1.317135600
+"new","timers\immediate.js","type='breadth1' n=5000000",1973766.6672259003,2.533227500
+"new","timers\immediate.js","type='breadth4' n=5000000",1227754.5003709537,2.036237700
+"new","timers\immediate.js","type='clear' n=5000000",21745521.72725549,0.919729600
+"old","timers\immediate.js","type='depth' n=5000000",779581.9018065765,6.413694300
+"old","timers\immediate.js","type='depth1' n=5000000",771352.4631829612,6.482121000
+"old","timers\immediate.js","type='breadth' n=5000000",3587501.3462098804,1.393727700
+"old","timers\immediate.js","type='breadth1' n=5000000",1765934.806772826,2.831361600
+"old","timers\immediate.js","type='breadth4' n=5000000",1185500.700488654,2.108813600
+"old","timers\immediate.js","type='clear' n=5000000",21297290.36704389,0.939086600
+"new","timers\immediate.js","type='depth' n=5000000",800041.9734020926,6.249672100
+"new","timers\immediate.js","type='depth1' n=5000000",795362.5653891426,6.286441200
+"new","timers\immediate.js","type='breadth' n=5000000",3657577.3188070944,1.367025100
+"new","timers\immediate.js","type='breadth1' n=5000000",1967550.139965614,2.541231300
+"new","timers\immediate.js","type='breadth4' n=5000000",1255412.1445256574,1.991377900
+"new","timers\immediate.js","type='clear' n=5000000",21478087.62544277,0.931181600
+"old","timers\immediate.js","type='depth' n=5000000",773575.035718667,6.463497100
+"old","timers\immediate.js","type='depth1' n=5000000",773854.5860990767,6.461162200
+"old","timers\immediate.js","type='breadth' n=5000000",3542206.1299010585,1.411549700
+"old","timers\immediate.js","type='breadth1' n=5000000",1881279.8060566073,2.657765200
+"old","timers\immediate.js","type='breadth4' n=5000000",1185994.2054220715,2.107936100
+"old","timers\immediate.js","type='clear' n=5000000",21355543.098155413,0.936525000
+"new","timers\immediate.js","type='depth' n=5000000",804227.4052712603,6.217147000
+"new","timers\immediate.js","type='depth1' n=5000000",799050.0254057955,6.257430500
+"new","timers\immediate.js","type='breadth' n=5000000",3838438.5845988025,1.302613000
+"new","timers\immediate.js","type='breadth1' n=5000000",1924729.4513670334,2.597767700
+"new","timers\immediate.js","type='breadth4' n=5000000",1248939.6502369486,2.001698000
+"new","timers\immediate.js","type='clear' n=5000000",21436199.65333378,0.933001200
+"old","timers\immediate.js","type='depth' n=5000000",775855.2722057963,6.444500900
+"old","timers\immediate.js","type='depth1' n=5000000",773804.657130948,6.461579100
+"old","timers\immediate.js","type='breadth' n=5000000",3555168.2476262855,1.406403200
+"old","timers\immediate.js","type='breadth1' n=5000000",1804052.2187966078,2.771538400
+"old","timers\immediate.js","type='breadth4' n=5000000",1185701.652232567,2.108456200
+"old","timers\immediate.js","type='clear' n=5000000",21319643.279728644,0.938102000
+"new","timers\immediate.js","type='depth' n=5000000",794478.7161376487,6.293434800
+"new","timers\immediate.js","type='depth1' n=5000000",798786.9812611444,6.259491100
+"new","timers\immediate.js","type='breadth' n=5000000",3896471.378898098,1.283212300
+"new","timers\immediate.js","type='breadth1' n=5000000",2023493.6516326617,2.470973900
+"new","timers\immediate.js","type='breadth4' n=5000000",1236489.0694118966,2.021853700
+"new","timers\immediate.js","type='clear' n=5000000",21472163.755309664,0.931438500
+"old","timers\immediate.js","type='depth' n=5000000",776191.860842833,6.441706300
+"old","timers\immediate.js","type='depth1' n=5000000",770372.5443046258,6.490366300
+"old","timers\immediate.js","type='breadth' n=5000000",3546096.7758178893,1.410001000
+"old","timers\immediate.js","type='breadth1' n=5000000",1857940.3913268368,2.691152000
+"old","timers\immediate.js","type='breadth4' n=5000000",1053316.5673424255,2.373455500
+"old","timers\immediate.js","type='clear' n=5000000",21383074.35579212,0.935319200
+"new","timers\immediate.js","type='depth' n=5000000",802019.0605283463,6.234265800
+"new","timers\immediate.js","type='depth1' n=5000000",790193.8585754018,6.327561200
+"new","timers\immediate.js","type='breadth' n=5000000",3704555.751526555,1.349689500
+"new","timers\immediate.js","type='breadth1' n=5000000",1978457.447376791,2.527221400
+"new","timers\immediate.js","type='breadth4' n=5000000",1236158.425074831,2.022394500
+"new","timers\immediate.js","type='clear' n=5000000",21848198.064402588,0.915407300
+"old","timers\immediate.js","type='depth' n=5000000",777893.0148489975,6.427619100
+"old","timers\immediate.js","type='depth1' n=5000000",772844.0290850886,6.469610700
+"old","timers\immediate.js","type='breadth' n=5000000",3601077.2694673156,1.388473400
+"old","timers\immediate.js","type='breadth1' n=5000000",1829859.5827971387,2.732450100
+"old","timers\immediate.js","type='breadth4' n=5000000",1161726.556148986,2.151969400
+"old","timers\immediate.js","type='clear' n=5000000",21341093.5240345,0.937159100
+"new","timers\immediate.js","type='depth' n=5000000",795504.7110664045,6.285317900
+"new","timers\immediate.js","type='depth1' n=5000000",799691.9330772368,6.252407700
+"new","timers\immediate.js","type='breadth' n=5000000",3652668.8846159154,1.368862100
+"new","timers\immediate.js","type='breadth1' n=5000000",1982612.802936297,2.521924600
+"new","timers\immediate.js","type='breadth4' n=5000000",1225868.4726487903,2.039370500
+"new","timers\immediate.js","type='clear' n=5000000",21797726.03942184,0.917526900
+"old","timers\immediate.js","type='depth' n=5000000",777124.8029794344,6.433973000
+"old","timers\immediate.js","type='depth1' n=5000000",771758.0155211958,6.478714700
+"old","timers\immediate.js","type='breadth' n=5000000",3576966.993823222,1.397832300
+"old","timers\immediate.js","type='breadth1' n=5000000",1853739.9890162197,2.697249900
+"old","timers\immediate.js","type='breadth4' n=5000000",1181275.9632643966,2.116355600
+"old","timers\immediate.js","type='clear' n=5000000",21354131.688154083,0.936586900
+"new","timers\immediate.js","type='depth' n=5000000",803110.5822074673,6.225792700
+"new","timers\immediate.js","type='depth1' n=5000000",800899.044416916,6.242984100
+"new","timers\immediate.js","type='breadth' n=5000000",3880623.936029932,1.288452600
+"new","timers\immediate.js","type='breadth1' n=5000000",2033227.2436022167,2.459144700
+"new","timers\immediate.js","type='breadth4' n=5000000",1235569.6584025507,2.023358200
+"new","timers\immediate.js","type='clear' n=5000000",21817764.503849857,0.916684200
+"old","timers\immediate.js","type='depth' n=5000000",774522.3656112689,6.455591500
+"old","timers\immediate.js","type='depth1' n=5000000",774865.543781112,6.452732400
+"old","timers\immediate.js","type='breadth' n=5000000",3534235.2890283484,1.414733200
+"old","timers\immediate.js","type='breadth1' n=5000000",1872056.82246585,2.670859100
+"old","timers\immediate.js","type='breadth4' n=5000000",1189207.5325546751,2.102240300
+"old","timers\immediate.js","type='clear' n=5000000",20226115.839415155,0.988820600
+"new","timers\immediate.js","type='depth' n=5000000",804100.7724175937,6.218126100
+"new","timers\immediate.js","type='depth1' n=5000000",800118.1870576467,6.249076800
+"new","timers\immediate.js","type='breadth' n=5000000",3929331.4454729427,1.272481100
+"new","timers\immediate.js","type='breadth1' n=5000000",1996164.8881702516,2.504803100
+"new","timers\immediate.js","type='breadth4' n=5000000",1253554.516509288,1.994328900
+"new","timers\immediate.js","type='clear' n=5000000",21952819.65857438,0.911044700
+"old","timers\immediate.js","type='depth' n=5000000",773276.5880290258,6.465991700
+"old","timers\immediate.js","type='depth1' n=5000000",776335.0952931144,6.440517800
+"old","timers\immediate.js","type='breadth' n=5000000",3583756.951323765,1.395183900
+"old","timers\immediate.js","type='breadth1' n=5000000",1835195.8185136684,2.724504900
+"old","timers\immediate.js","type='breadth4' n=5000000",1182308.242135593,2.114507800
+"old","timers\immediate.js","type='clear' n=5000000",21055291.194677223,0.949880000
+"new","timers\immediate.js","type='depth' n=5000000",802164.7538914416,6.233133500
+"new","timers\immediate.js","type='depth1' n=5000000",796626.7382475091,6.276465200
+"new","timers\immediate.js","type='breadth' n=5000000",3891584.5029944573,1.284823700
+"new","timers\immediate.js","type='breadth1' n=5000000",1966146.5737104025,2.543045400
+"new","timers\immediate.js","type='breadth4' n=5000000",1222907.5232928419,2.044308300
+"new","timers\immediate.js","type='clear' n=5000000",21825495.34325775,0.916359500
+"old","timers\set-immediate-breadth-args.js","n=5000000",1372120.1701747342,3.643995700
+"new","timers\set-immediate-breadth-args.js","n=5000000",1443598.8804601962,3.463566000
+"old","timers\set-immediate-breadth-args.js","n=5000000",1373100.3328532516,3.641394500
+"new","timers\set-immediate-breadth-args.js","n=5000000",1457378.1737506662,3.430818500
+"old","timers\set-immediate-breadth-args.js","n=5000000",1395055.5381375123,3.584086700
+"new","timers\set-immediate-breadth-args.js","n=5000000",1473876.1495386488,3.392415300
+"old","timers\set-immediate-breadth-args.js","n=5000000",1374736.511126595,3.637060600
+"new","timers\set-immediate-breadth-args.js","n=5000000",1466805.430371861,3.408768400
+"old","timers\set-immediate-breadth-args.js","n=5000000",1425224.9596454678,3.508218100
+"new","timers\set-immediate-breadth-args.js","n=5000000",1467571.3833324923,3.406989300
+"old","timers\set-immediate-breadth-args.js","n=5000000",1371939.4534582847,3.644475700
+"new","timers\set-immediate-breadth-args.js","n=5000000",1467769.5134526065,3.406529400
+"old","timers\set-immediate-breadth-args.js","n=5000000",1380823.8420335315,3.621026700
+"new","timers\set-immediate-breadth-args.js","n=5000000",1444293.8046006246,3.461899500
+"old","timers\set-immediate-breadth-args.js","n=5000000",1387306.1267433998,3.604107200
+"new","timers\set-immediate-breadth-args.js","n=5000000",1461142.5503530179,3.421979600
+"old","timers\set-immediate-breadth-args.js","n=5000000",1392524.732283639,3.590600500
+"new","timers\set-immediate-breadth-args.js","n=5000000",1462445.9384922148,3.418929800
+"old","timers\set-immediate-breadth-args.js","n=5000000",1377296.035128321,3.630301600
+"new","timers\set-immediate-breadth-args.js","n=5000000",1475837.5289426497,3.387906800
+"old","timers\set-immediate-breadth.js","n=10000000",3380774.0451215007,2.957902500
+"new","timers\set-immediate-breadth.js","n=10000000",3198670.1720679835,3.126299200
+"old","timers\set-immediate-breadth.js","n=10000000",3269951.7495729686,3.058149100
+"new","timers\set-immediate-breadth.js","n=10000000",3257775.6344509907,3.069579100
+"old","timers\set-immediate-breadth.js","n=10000000",3298192.412455584,3.031963800
+"new","timers\set-immediate-breadth.js","n=10000000",3227509.3271792047,3.098364400
+"old","timers\set-immediate-breadth.js","n=10000000",3112492.6428455156,3.212859000
+"new","timers\set-immediate-breadth.js","n=10000000",3348669.3459593346,2.986260800
+"old","timers\set-immediate-breadth.js","n=10000000",3200160.8784876834,3.124842900
+"new","timers\set-immediate-breadth.js","n=10000000",3525823.5548142865,2.836216800
+"old","timers\set-immediate-breadth.js","n=10000000",3247828.4044939033,3.078980400
+"new","timers\set-immediate-breadth.js","n=10000000",3445176.3913086466,2.902609000
+"old","timers\set-immediate-breadth.js","n=10000000",3334601.3710813764,2.998859200
+"new","timers\set-immediate-breadth.js","n=10000000",3408628.8074809858,2.933731000
+"old","timers\set-immediate-breadth.js","n=10000000",3269295.6773241786,3.058762800
+"new","timers\set-immediate-breadth.js","n=10000000",3231358.5510278046,3.094673600
+"old","timers\set-immediate-breadth.js","n=10000000",3301557.384236833,3.028873600
+"new","timers\set-immediate-breadth.js","n=10000000",3356590.4774333737,2.979213600
+"old","timers\set-immediate-breadth.js","n=10000000",3226062.7675031084,3.099753700
+"new","timers\set-immediate-breadth.js","n=10000000",3375642.6253061327,2.962398900
+"old","timers\set-immediate-depth-args.js","n=5000000",740087.5559102845,6.755957400
+"new","timers\set-immediate-depth-args.js","n=5000000",756291.6316799856,6.611206300
+"old","timers\set-immediate-depth-args.js","n=5000000",738469.2312659365,6.770762800
+"new","timers\set-immediate-depth-args.js","n=5000000",759332.6001015258,6.584729800
+"old","timers\set-immediate-depth-args.js","n=5000000",736340.0887431183,6.790340600
+"new","timers\set-immediate-depth-args.js","n=5000000",761887.6259636431,6.562647600
+"old","timers\set-immediate-depth-args.js","n=5000000",743682.4621053627,6.723299600
+"new","timers\set-immediate-depth-args.js","n=5000000",757277.9293452725,6.602595700
+"old","timers\set-immediate-depth-args.js","n=5000000",743524.4301160347,6.724728600
+"new","timers\set-immediate-depth-args.js","n=5000000",761728.8417169515,6.564015600
+"old","timers\set-immediate-depth-args.js","n=5000000",739286.7007053978,6.763276000
+"new","timers\set-immediate-depth-args.js","n=5000000",763032.5035975457,6.552800800
+"old","timers\set-immediate-depth-args.js","n=5000000",744983.1271751459,6.711561400
+"new","timers\set-immediate-depth-args.js","n=5000000",770549.2857501272,6.488877600
+"old","timers\set-immediate-depth-args.js","n=5000000",739509.1457758291,6.761241600
+"new","timers\set-immediate-depth-args.js","n=5000000",759370.7720133842,6.584398800
+"old","timers\set-immediate-depth-args.js","n=5000000",744614.6564051618,6.714882600
+"new","timers\set-immediate-depth-args.js","n=5000000",765122.2510802532,6.534903400
+"old","timers\set-immediate-depth-args.js","n=5000000",743479.222543777,6.725137500
+"new","timers\set-immediate-depth-args.js","n=5000000",763302.2709509643,6.550484900
+"old","timers\timers-breadth-args.js","n=1000000",1218211.976680499,0.820875200
+"new","timers\timers-breadth-args.js","n=1000000",1271029.016194308,0.786764100
+"old","timers\timers-breadth-args.js","n=1000000",1326810.907818618,0.753686900
+"new","timers\timers-breadth-args.js","n=1000000",1358445.9269919537,0.736135300
+"old","timers\timers-breadth-args.js","n=1000000",1313844.8104903677,0.761124900
+"new","timers\timers-breadth-args.js","n=1000000",1361502.2707134872,0.734482800
+"old","timers\timers-breadth-args.js","n=1000000",1211165.6391339246,0.825650900
+"new","timers\timers-breadth-args.js","n=1000000",1393096.0389264468,0.717825600
+"old","timers\timers-breadth-args.js","n=1000000",1287486.7871668467,0.776707000
+"new","timers\timers-breadth-args.js","n=1000000",1283479.399706417,0.779132100
+"old","timers\timers-breadth-args.js","n=1000000",1328111.376482521,0.752948900
+"new","timers\timers-breadth-args.js","n=1000000",1475721.793975956,0.677634500
+"old","timers\timers-breadth-args.js","n=1000000",1216992.8714642555,0.821697500
+"new","timers\timers-breadth-args.js","n=1000000",1286719.5997375606,0.777170100
+"old","timers\timers-breadth-args.js","n=1000000",1315383.4355868571,0.760234600
+"new","timers\timers-breadth-args.js","n=1000000",1408763.6084803625,0.709842300
+"old","timers\timers-breadth-args.js","n=1000000",1167796.7435754247,0.856313400
+"new","timers\timers-breadth-args.js","n=1000000",1445836.9943130894,0.691640900
+"old","timers\timers-breadth-args.js","n=1000000",1287497.064506693,0.776700800
+"new","timers\timers-breadth-args.js","n=1000000",1244287.166546593,0.803673000
+"old","timers\timers-breadth.js","n=5000000",2427855.544148951,2.059430600
+"new","timers\timers-breadth.js","n=5000000",2416217.652886172,2.069350000
+"old","timers\timers-breadth.js","n=5000000",2376336.8558249814,2.104078800
+"new","timers\timers-breadth.js","n=5000000",2449497.2455893373,2.041235200
+"old","timers\timers-breadth.js","n=5000000",2487209.153844979,2.010285300
+"new","timers\timers-breadth.js","n=5000000",2825528.582934124,1.769580400
+"old","timers\timers-breadth.js","n=5000000",2373805.6434285655,2.106322400
+"new","timers\timers-breadth.js","n=5000000",2430280.714434482,2.057375500
+"old","timers\timers-breadth.js","n=5000000",2728434.196906403,1.832552900
+"new","timers\timers-breadth.js","n=5000000",2409257.8334247805,2.075327900
+"old","timers\timers-breadth.js","n=5000000",2426002.0844209907,2.061004000
+"new","timers\timers-breadth.js","n=5000000",2436608.1070142686,2.052032900
+"old","timers\timers-breadth.js","n=5000000",2425673.954102756,2.061282800
+"new","timers\timers-breadth.js","n=5000000",2446325.2989323894,2.043881900
+"old","timers\timers-breadth.js","n=5000000",2472195.098121671,2.022494100
+"new","timers\timers-breadth.js","n=5000000",2083913.0084685222,2.399332400
+"old","timers\timers-breadth.js","n=5000000",2457723.469735347,2.034403000
+"new","timers\timers-breadth.js","n=5000000",2482310.6817353517,2.014252300
+"old","timers\timers-breadth.js","n=5000000",2456465.05246125,2.035445200
+"new","timers\timers-breadth.js","n=5000000",2408973.6774818827,2.075572700
+"old","timers\timers-cancel-pooled.js","n=5000000",36311031.58188283,0.137699200
+"new","timers\timers-cancel-pooled.js","n=5000000",33590615.05087971,0.148851100
+"old","timers\timers-cancel-pooled.js","n=5000000",33604838.02132025,0.148788100
+"new","timers\timers-cancel-pooled.js","n=5000000",36677300.63869851,0.136324100
+"old","timers\timers-cancel-pooled.js","n=5000000",35864172.33739005,0.139414900
+"new","timers\timers-cancel-pooled.js","n=5000000",35030416.91100382,0.142733100
+"old","timers\timers-cancel-pooled.js","n=5000000",34550191.06255657,0.144717000
+"new","timers\timers-cancel-pooled.js","n=5000000",35260284.367141366,0.141802600
+"old","timers\timers-cancel-pooled.js","n=5000000",36313853.37192286,0.137688500
+"new","timers\timers-cancel-pooled.js","n=5000000",35492961.74568583,0.140873000
+"old","timers\timers-cancel-pooled.js","n=5000000",36262786.25843473,0.137882400
+"new","timers\timers-cancel-pooled.js","n=5000000",35014152.72052964,0.142799400
+"old","timers\timers-cancel-pooled.js","n=5000000",35567367.08297084,0.140578300
+"new","timers\timers-cancel-pooled.js","n=5000000",35782732.97063955,0.139732200
+"old","timers\timers-cancel-pooled.js","n=5000000",36214485.359570004,0.138066300
+"new","timers\timers-cancel-pooled.js","n=5000000",35792210.46965107,0.139695200
+"old","timers\timers-cancel-pooled.js","n=5000000",37079609.92250362,0.134845000
+"new","timers\timers-cancel-pooled.js","n=5000000",37048151.48248178,0.134959500
+"old","timers\timers-cancel-pooled.js","n=5000000",34439863.17731157,0.145180600
+"new","timers\timers-cancel-pooled.js","n=5000000",36950763.84619023,0.135315200
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2760239.5225448087,0.362287400
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11661807.580174927,0.085750000
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2597629.2995960168,0.384966400
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",10862374.797552489,0.092060900
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2888101.656557348,0.346248200
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11555844.19486389,0.086536300
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2697931.7385499105,0.370654300
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11031975.076561905,0.090645600
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2767634.39771017,0.361319400
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",10876232.820990259,0.091943600
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2758928.9286113344,0.362459500
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",10939051.977999378,0.091415600
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2677192.674344141,0.373525600
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11796445.259185597,0.084771300
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2679470.2472963477,0.373208100
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",10367980.358898008,0.096450800
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2710064.556447799,0.368994900
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11772822.204484504,0.084941400
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2699875.8597079706,0.370387400
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11478222.941524193,0.087121500
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2879156.890729374,0.347323900
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11578375.762291314,0.086367900
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2556101.9649522635,0.391220700
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11372644.014634319,0.087930300
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2726211.487491869,0.366809400
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11324771.805848112,0.088302000
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2633827.404236669,0.379675600
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11060454.230734348,0.090412200
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2763113.321356158,0.361910600
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11695058.370036324,0.085506200
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2783431.235888004,0.359268800
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11276779.532194078,0.088677800
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2679330.9710565275,0.373227500
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",12080927.718601367,0.082775100
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2645602.0305524706,0.377985800
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",10358808.405551493,0.096536200
+"old","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2705177.574618942,0.369661500
+"old","timers\timers-cancel-unpooled.js","direction='end' n=1000000",11865816.599565474,0.084275700
+"new","timers\timers-cancel-unpooled.js","direction='start' n=1000000",2839167.6809593206,0.352215900
+"new","timers\timers-cancel-unpooled.js","direction='end' n=1000000",10993891.793719409,0.090959600
+"old","timers\timers-depth.js","n=1000",64.44429277122117,15.517277900
+"new","timers\timers-depth.js","n=1000",64.50152505470794,15.503509400
+"old","timers\timers-depth.js","n=1000",64.24651088121311,15.565047600
+"new","timers\timers-depth.js","n=1000",64.34522686431495,15.541168300
+"old","timers\timers-depth.js","n=1000",64.33188045142323,15.544392500
+"new","timers\timers-depth.js","n=1000",64.28074455769325,15.556758200
+"old","timers\timers-depth.js","n=1000",64.2594820504535,15.561905700
+"new","timers\timers-depth.js","n=1000",64.28556615340256,15.555591400
+"old","timers\timers-depth.js","n=1000",64.3364510219916,15.543288200
+"new","timers\timers-depth.js","n=1000",64.46084865607993,15.513292500
+"old","timers\timers-depth.js","n=1000",64.89344842947828,15.409876100
+"new","timers\timers-depth.js","n=1000",64.24469478232085,15.565487600
+"old","timers\timers-depth.js","n=1000",64.59068501818932,15.482108600
+"new","timers\timers-depth.js","n=1000",64.56864583620596,15.487393100
+"old","timers\timers-depth.js","n=1000",64.72962864566735,15.448875900
+"new","timers\timers-depth.js","n=1000",64.52605688648147,15.497615200
+"old","timers\timers-depth.js","n=1000",64.38158315368833,15.532392200
+"new","timers\timers-depth.js","n=1000",64.36352519027467,15.536750000
+"old","timers\timers-depth.js","n=1000",64.3351447236451,15.543603800
+"new","timers\timers-depth.js","n=1000",64.51485913009545,15.500305100
+"old","timers\timers-insert-pooled.js","n=5000000",2265537.486534778,2.206981800
+"new","timers\timers-insert-pooled.js","n=5000000",2436328.5036206767,2.052268400
+"old","timers\timers-insert-pooled.js","n=5000000",2325081.989366191,2.150461800
+"new","timers\timers-insert-pooled.js","n=5000000",2382857.872964795,2.098320700
+"old","timers\timers-insert-pooled.js","n=5000000",2318579.500937819,2.156492800
+"new","timers\timers-insert-pooled.js","n=5000000",2481993.2629767666,2.014509900
+"old","timers\timers-insert-pooled.js","n=5000000",2288373.7159591825,2.184957800
+"new","timers\timers-insert-pooled.js","n=5000000",2468121.7396111824,2.025832000
+"old","timers\timers-insert-pooled.js","n=5000000",2224951.8920901893,2.247239600
+"new","timers\timers-insert-pooled.js","n=5000000",2484855.7978543965,2.012189200
+"old","timers\timers-insert-pooled.js","n=5000000",2367903.3168026847,2.111572700
+"new","timers\timers-insert-pooled.js","n=5000000",2486641.760462794,2.010744000
+"old","timers\timers-insert-pooled.js","n=5000000",2272444.456685345,2.200273800
+"new","timers\timers-insert-pooled.js","n=5000000",2445403.55345503,2.044652300
+"old","timers\timers-insert-pooled.js","n=5000000",2277080.0146789686,2.195794600
+"new","timers\timers-insert-pooled.js","n=5000000",2460967.6987653472,2.031721100
+"old","timers\timers-insert-pooled.js","n=5000000",2285377.9825496767,2.187821900
+"new","timers\timers-insert-pooled.js","n=5000000",2450463.5125247845,2.040430300
+"old","timers\timers-insert-pooled.js","n=5000000",2304590.2228865996,2.169583100
+"new","timers\timers-insert-pooled.js","n=5000000",2449891.5114541985,2.040906700
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2211439.244466205,0.452194200
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1624428.0185893045,0.615601300
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2320271.7502273866,0.430984000
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1644435.5425667074,0.608111400
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2184485.4783051102,0.457773700
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1615461.6480519713,0.619018100
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2294344.692710385,0.435854300
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1595314.3702568312,0.626835700
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2121221.441730577,0.471426500
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1599942.1460919974,0.625022600
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2230366.0320606194,0.448356900
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1563629.233487059,0.639537800
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2173110.4098725272,0.460169900
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1567994.841924168,0.637757200
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2291056.7682628157,0.436479800
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1635307.7330268547,0.611505700
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2197235.262813507,0.455117400
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1589185.4026328353,0.629253200
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2317320.4175162544,0.431532900
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1557723.6299197585,0.641962400
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2193210.915610727,0.455952500
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1596417.3839636042,0.626402600
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2388680.9011346474,0.418641100
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1616822.978417515,0.618496900
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2318349.7615461354,0.431341300
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1602890.074920685,0.623873100
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2373563.2524937247,0.421307500
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1665343.2738783578,0.600476800
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2239058.4490534714,0.446616300
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1568854.1042556893,0.637407900
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2231855.9042408834,0.448057600
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1651302.3987148905,0.605582600
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2236641.1018588725,0.447099000
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1556716.797098778,0.642377600
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2290938.673175376,0.436502300
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1626728.582125474,0.614730700
+"old","timers\timers-insert-unpooled.js","direction='start' n=1000000",2166594.1940908744,0.461553900
+"old","timers\timers-insert-unpooled.js","direction='end' n=1000000",1549773.4541164772,0.645255600
+"new","timers\timers-insert-unpooled.js","direction='start' n=1000000",2328647.086315263,0.429433900
+"new","timers\timers-insert-unpooled.js","direction='end' n=1000000",1609439.556129446,0.621334300
+"old","timers\timers-timeout-nexttick.js","n=50000",1535593.5222522859,0.032560700
+"old","timers\timers-timeout-nexttick.js","n=5000000",3614674.0149615696,1.383250600
+"new","timers\timers-timeout-nexttick.js","n=50000",1628388.676836497,0.030705200
+"new","timers\timers-timeout-nexttick.js","n=5000000",3434555.8772360594,1.455792300
+"old","timers\timers-timeout-nexttick.js","n=50000",1741959.9836952544,0.028703300
+"old","timers\timers-timeout-nexttick.js","n=5000000",3558925.5575270425,1.404918400
+"new","timers\timers-timeout-nexttick.js","n=50000",1487661.3368719837,0.033609800
+"new","timers\timers-timeout-nexttick.js","n=5000000",3520626.434919319,1.420201800
+"old","timers\timers-timeout-nexttick.js","n=50000",1524710.99103165,0.032793100
+"old","timers\timers-timeout-nexttick.js","n=5000000",3623236.190506281,1.379981800
+"new","timers\timers-timeout-nexttick.js","n=50000",1577680.2420792563,0.031692100
+"new","timers\timers-timeout-nexttick.js","n=5000000",3288896.396343063,1.520266800
+"old","timers\timers-timeout-nexttick.js","n=50000",1576004.3875962151,0.031725800
+"old","timers\timers-timeout-nexttick.js","n=5000000",3634319.6949671865,1.375773300
+"new","timers\timers-timeout-nexttick.js","n=50000",1502728.9557837034,0.033272800
+"new","timers\timers-timeout-nexttick.js","n=5000000",3470280.3111980814,1.440805800
+"old","timers\timers-timeout-nexttick.js","n=50000",1707556.9641003222,0.029281600
+"old","timers\timers-timeout-nexttick.js","n=5000000",3678452.0838210345,1.359267400
+"new","timers\timers-timeout-nexttick.js","n=50000",1581502.7439072607,0.031615500
+"new","timers\timers-timeout-nexttick.js","n=5000000",3396865.128285329,1.471945400
+"old","timers\timers-timeout-nexttick.js","n=50000",1531534.2910527766,0.032647000
+"old","timers\timers-timeout-nexttick.js","n=5000000",3622539.236265849,1.380247300
+"new","timers\timers-timeout-nexttick.js","n=50000",1677098.2175800144,0.029813400
+"new","timers\timers-timeout-nexttick.js","n=5000000",3459945.4228209,1.445109500
+"old","timers\timers-timeout-nexttick.js","n=50000",1547853.436853771,0.032302800
+"old","timers\timers-timeout-nexttick.js","n=5000000",3459202.887576529,1.445419700
+"new","timers\timers-timeout-nexttick.js","n=50000",1569090.1787507532,0.031865600
+"new","timers\timers-timeout-nexttick.js","n=5000000",3494437.13563504,1.430845600
+"old","timers\timers-timeout-nexttick.js","n=50000",1698427.25636061,0.029439000
+"old","timers\timers-timeout-nexttick.js","n=5000000",2981970.884751954,1.676743400
+"new","timers\timers-timeout-nexttick.js","n=50000",1523433.4533798895,0.032820600
+"new","timers\timers-timeout-nexttick.js","n=5000000",3401181.4616019535,1.470077400
+"old","timers\timers-timeout-nexttick.js","n=50000",1530610.6830503235,0.032666700
+"old","timers\timers-timeout-nexttick.js","n=5000000",3477487.9600673104,1.437819500
+"new","timers\timers-timeout-nexttick.js","n=50000",1520071.017717948,0.032893200
+"new","timers\timers-timeout-nexttick.js","n=5000000",3404715.9265052574,1.468551300
+"old","timers\timers-timeout-nexttick.js","n=50000",1651058.6588120302,0.030283600
+"old","timers\timers-timeout-nexttick.js","n=5000000",3168498.1325188857,1.578034700
+"new","timers\timers-timeout-nexttick.js","n=50000",1576004.3875962151,0.031725800
+"new","timers\timers-timeout-nexttick.js","n=5000000",3438600.352112676,1.454080000
+"old","timers\timers-timeout-pooled.js","n=10000000",14157161.194711506,0.706356300
+"new","timers\timers-timeout-pooled.js","n=10000000",13189427.882186754,0.758183000
+"old","timers\timers-timeout-pooled.js","n=10000000",14235671.83189038,0.702460700
+"new","timers\timers-timeout-pooled.js","n=10000000",13035051.383520802,0.767162300
+"old","timers\timers-timeout-pooled.js","n=10000000",14146222.428128349,0.706902500
+"new","timers\timers-timeout-pooled.js","n=10000000",13233881.595402656,0.755636200
+"old","timers\timers-timeout-pooled.js","n=10000000",14332343.541688345,0.697722600
+"new","timers\timers-timeout-pooled.js","n=10000000",12886411.948693523,0.776011200
+"old","timers\timers-timeout-pooled.js","n=10000000",13739664.680735534,0.727819800
+"new","timers\timers-timeout-pooled.js","n=10000000",11303801.999891257,0.884658100
+"old","timers\timers-timeout-pooled.js","n=10000000",14062848.275226815,0.711093500
+"new","timers\timers-timeout-pooled.js","n=10000000",11897498.765039628,0.840512800
+"old","timers\timers-timeout-pooled.js","n=10000000",14164628.966751225,0.705983900
+"new","timers\timers-timeout-pooled.js","n=10000000",13357492.584921928,0.748643500
+"old","timers\timers-timeout-pooled.js","n=10000000",14066681.980594449,0.710899700
+"new","timers\timers-timeout-pooled.js","n=10000000",13196449.205019508,0.757779600
+"old","timers\timers-timeout-pooled.js","n=10000000",13045344.312295105,0.766557000
+"new","timers\timers-timeout-pooled.js","n=10000000",13399868.14529745,0.746276000
+"old","timers\timers-timeout-pooled.js","n=10000000",12128640.729891896,0.824494700
+"new","timers\timers-timeout-pooled.js","n=10000000",11851198.719122443,0.843796500
+"old","timers\timers-timeout-unpooled.js","n=1000000",11075914.316726845,0.090286000
+"new","timers\timers-timeout-unpooled.js","n=1000000",9736415.752741775,0.102707200
+"old","timers\timers-timeout-unpooled.js","n=1000000",11538869.836932693,0.086663600
+"new","timers\timers-timeout-unpooled.js","n=1000000",10775815.62148439,0.092800400
+"old","timers\timers-timeout-unpooled.js","n=1000000",8041468.24343776,0.124355400
+"new","timers\timers-timeout-unpooled.js","n=1000000",10253497.211561434,0.097527700
+"old","timers\timers-timeout-unpooled.js","n=1000000",11585109.427151095,0.086317700
+"new","timers\timers-timeout-unpooled.js","n=1000000",10944822.770484878,0.091367400
+"old","timers\timers-timeout-unpooled.js","n=1000000",11808424.838785479,0.084685300
+"new","timers\timers-timeout-unpooled.js","n=1000000",10001580.24967945,0.099984200
+"old","timers\timers-timeout-unpooled.js","n=1000000",13170285.20252606,0.075928500
+"new","timers\timers-timeout-unpooled.js","n=1000000",8924579.273021622,0.112050100
+"old","timers\timers-timeout-unpooled.js","n=1000000",5793833.391368231,0.172597300
+"new","timers\timers-timeout-unpooled.js","n=1000000",9845814.544237245,0.101566000
+"old","timers\timers-timeout-unpooled.js","n=1000000",10928902.027857771,0.091500500
+"new","timers\timers-timeout-unpooled.js","n=1000000",8437266.393186739,0.118521800
+"old","timers\timers-timeout-unpooled.js","n=1000000",10678923.222813597,0.093642400
+"new","timers\timers-timeout-unpooled.js","n=1000000",10134700.301710028,0.098670900
+"old","timers\timers-timeout-unpooled.js","n=1000000",11155696.712304622,0.089640300
+"new","timers\timers-timeout-unpooled.js","n=1000000",11407360.256985012,0.087662700
